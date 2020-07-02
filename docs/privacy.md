@@ -2,7 +2,7 @@
 
 ## 1. Summary
 
-{% title %} is committed to protecting your personal information. This Privacy Policy relates to our collection, use, disclosure, transfer, and storing of your personal information when accessing our online services. It also relates to our use of any personal information you provide to us by phone, SMS, email, IM/chat, in letters and other correspondence, and in person.
+{{title}} is committed to protecting your personal information. This Privacy Policy relates to our collection, use, disclosure, transfer, and storing of your personal information when accessing our online services. It also relates to our use of any personal information you provide to us by phone, SMS, email, IM/chat, in letters and other correspondence, and in person.
 
 Our Privacy Notice below is designed to inform you about the information we collect, how we use this information, the security we use, any sharing of your information, and your rights in relation to this personal information in order to comply with EU GDPR, KR PIPA, SG PDPA, US-CA CCPA, and other government regulations related to data privacy.
 
@@ -29,11 +29,11 @@ We use your personal information only for the purposes it was collected. We do n
 
 ## 4. Sharing your personal data
 
-We will only share your information with {% title %}-authorised third parties for specific purposes related to the services we are offering you such as through our account management database. We do not allow third-parties to use your personal information for any other purposes.
+We will only share your information with {{title}}-authorised third parties for specific purposes related to the services we are offering you such as through our account management database. We do not allow third-parties to use your personal information for any other purposes.
 
 We may have to share your personal data as required with regulatory authorities or with law enforcement agencies.
 
-We may use other companies and individuals to work on our behalf or to review information in order to help us make decisions for the benefit of {% title %} and its customers. This may include statistical analysis, market research, IT processing, insurance providers, and credit agencies.
+We may use other companies and individuals to work on our behalf or to review information in order to help us make decisions for the benefit of {{title}} and its customers. This may include statistical analysis, market research, IT processing, insurance providers, and credit agencies.
 
 We make commercially reasonable efforts to ensure that our affiliates and business partners protect your information consistent with this Privacy Statement.
 
@@ -43,9 +43,9 @@ To deliver products and services to you, it is sometimes necessary for us to tra
 
 We employ physical, technical, and administrative safeguards to protect the confidentiality and security of your personal information. We use industry-standard procedures to protect your information from loss, misuse, or unauthorized access.
 
-Appropriate technical and organizational measures are taken to protect your data.  However, {% title %} cannot guarantee that its security measures will be sufficient and not be breached and that your information will not be disclosed or otherwise accessed in an unauthorized manner.
+Appropriate technical and organizational measures are taken to protect your data.  However, {{title}} cannot guarantee that its security measures will be sufficient and not be breached and that your information will not be disclosed or otherwise accessed in an unauthorized manner.
 
-In the event of any unauthorized access to your information, {% title %} will respond in line with any data breach requirements as detailed in the relevant regulations, including EU GDPR, in accordance with the {% title %} data incident response plan.
+In the event of any unauthorized access to your information, {{title}} will respond in line with any data breach requirements as detailed in the relevant regulations, including EU GDPR, in accordance with the {{title}} data incident response plan.
 
 
 ## 6. Data accuracy and your privacy rights
@@ -79,4 +79,4 @@ This privacy notice was last updated in December 2019.
 
 ## 8. How to contact us
 
-If you have any questions, concerns or suggestions related to our Privacy Notice above, you can contact our Privacy Team using the information contained at [https://www.{% siteDomain %}/contact](https://www.{% siteDomain %}/contact) or sending an e-mail to abuse@{% siteDomain %}
+If you have any questions, concerns or suggestions related to our Privacy Notice above, you can contact our Privacy Team using the information contained at [https://www.{{siteDomain}}/contact](https://www.{{siteDomain}}/contact) or sending an e-mail to abuse@{{siteDomain}}

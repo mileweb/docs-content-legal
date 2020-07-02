@@ -8,13 +8,13 @@ A cookie is a small text file that’s stored on your computer or mobile device 
 You will normally see a message appear on the site before we store a cookie on your computer.
 
 
-## {% title %} use of Cookies
+## {{title}} use of Cookies
 
 **We will never link the cookie to any personal information about you we hold.**
 
-{% title %} cookies are limited to our site only and are not designed to follow you when browsing to other sites after leaving the {% title %} website.
+{{title}} cookies are limited to our site only and are not designed to follow you when browsing to other sites after leaving the {{title}} website.
 
-{% title %} makes use of cookies to enable you to sign in to our customer portal.
+{{title}} makes use of cookies to enable you to sign in to our customer portal.
 
 
 ## Cookie Types
@@ -38,11 +38,11 @@ These are set by our website when you’re visiting, and only our website can re
 
 ## Third party cookies
 
-When you visit the {% title %} websites you may notice some cookies that are not related to us. We do not control the generation of these cookies, so we suggest that you check the individual third-party websites for more information about their cookies and how to manage them. {% title %} has no control over third party cookies.
+When you visit the {{title}} websites you may notice some cookies that are not related to us. We do not control the generation of these cookies, so we suggest that you check the individual third-party websites for more information about their cookies and how to manage them. {{title}} has no control over third party cookies.
 
 ## Advertising cookies
 
-Some websites use advertising networks to show you specially targeted adverts when you visit. These networks may also be able to track your browsing across different sites. {% title %} does not use advertising cookies.
+Some websites use advertising networks to show you specially targeted adverts when you visit. These networks may also be able to track your browsing across different sites. {{title}} does not use advertising cookies.
 
 ## Managing Cookies on your computer
 

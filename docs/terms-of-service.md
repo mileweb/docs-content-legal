@@ -1,12 +1,12 @@
 # Terms of Service
 
-Services (**“Services”**) are products and services provided by {% entityName %}. (**“Company”**). 
+Services (**“Services”**) are products and services provided by {{entityName}}. (**“Company”**). 
 
-Services introduction and Pricing is available on the Product page [https://www.{% title %}.com/cdn360](https://{% siteDomain %}/cdn360) (referred to as **“Product Page”** or **“Pricing page”**).
+Services introduction and Pricing is available on the Product page [https://www.{{title}}.com/cdn360](https://{{siteDomain}}/cdn360) (referred to as **“Product Page”** or **“Pricing page”**).
 
-Documentation is available at [https://docs.{% siteDomain %}](https://cdn360doc.{% siteDomain %}) (**“Documentation site”**). 
+Documentation is available at [https://docs.{{siteDomain}}](https://cdn360doc.{{siteDomain}}) (**“Documentation site”**). 
 
-Self-service Portal is available at [https://console.{% siteDomain %}](https://console.{% siteDomain %}) (hereinafter collectively referred to as **“the Portal”** or **“Product Portal”**).
+Self-service Portal is available at [https://console.{{siteDomain}}](https://console.{{siteDomain}}) (hereinafter collectively referred to as **“the Portal”** or **“Product Portal”**).
 
 Before you subscribe to and begin using Services, the Company assumes that you have fully read, understood, and accepted the following terms and conditions as well as all exhibits and additions (hereinafter referred to as “**Agreement**”). If you do not agree to or do not wish to be bound by this Agreement, you may not access or otherwise use Services. 
 
