@@ -1,6 +1,6 @@
 # Acceptable use policy
 
-The acceptable use policy (AUP) specifies guidelines for users of CDNetworks’ ("the Company") services ("Services"). By using Company Services, users agree to comply with this AUP.
+The acceptable use policy (AUP) specifies guidelines for users of {% entityName %} ("the Company") services ("Services"). By using Company Services, users agree to comply with this AUP.
 
 Services shall not be used in any way that violates applicable government or international laws or regulations.
 
