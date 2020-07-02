@@ -3,7 +3,6 @@
     "id": "legal",
     "title": "Legal Documents",
     "description": "Legal documents",
-    "hasApi": false,
     "showOnMainPage": false,
     "links": []
   },

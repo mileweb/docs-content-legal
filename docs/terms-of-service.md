@@ -1,12 +1,12 @@
 # Terms of Service
 
-Services (**“Services”**) are products and services provided by CDNetworks Inc. (**“Company”**). 
+Services (**“Services”**) are products and services provided by {{entityName}}. (**“Company”**). 
 
-Services introduction and Pricing is available on the Product page [https://www.cdnetworks.com/cdn360](https://cdnetworks.com/cdn360) (referred to as **“Product Page”** or **“Pricing page”**).
+Services introduction and Pricing is available on the Product page [https://www.{{siteDomain}}/cdn360](https://{{siteDomain}}/cdn360) (referred to as **“Product Page”** or **“Pricing page”**).
 
-Documentation is available at [https://docs.cdnetworks.com](https://cdn360doc.cdnetworks.com) (**“Documentation site”**). 
+Documentation is available at [https://docs.{{siteDomain}}](https://cdn360doc.{{siteDomain}}) (**“Documentation site”**). 
 
-Self-service Portal is available at [https://console.cdnetworks.com](https://console.cdnetworks.com) (hereinafter collectively referred to as **“the Portal”** or **“Product Portal”**).
+Self-service Portal is available at [https://console.{{siteDomain}}](https://console.{{siteDomain}}) (hereinafter collectively referred to as **“the Portal”** or **“Product Portal”**).
 
 Before you subscribe to and begin using Services, the Company assumes that you have fully read, understood, and accepted the following terms and conditions as well as all exhibits and additions (hereinafter referred to as “**Agreement**”). If you do not agree to or do not wish to be bound by this Agreement, you may not access or otherwise use Services. 
 
@@ -17,7 +17,6 @@ Before you subscribe to and begin using Services, the Company assumes that you h
 1.2     You agree that the Company may, at its sole discretion, modify, amend, or update this Agreement from time to time and adjust the relevant services, functions, rules, and product introductions accordingly (including, but not limited to, the specifications, characteristics, API interface) and such modification, amendment, or adjustment will be distributed by message or be posted on the Portal. You are also advised to regularly check for any amendments or updates at the Portal or the Product page. Your continuous use of the Services will signify your acceptance of the changed terms. You can choose to stop using Services if you do not adhere to the changes.
 
 1.3     You, as an individual or business entity/organization that legally operates in your jurisdiction, have the right to use the Services provided by the Company. Those Services are available only to those individuals or business entities who can form legally binding contracts under the laws applicable. If you are signing for and/or are a representative for a business entity, you represent and warrant that you are duly authorized by the business entity to accept these terms and conditions, and you have the authority to bind that business entity to these terms and conditions. If you do not meet the above requirements, you must stop using Services immediately.
-
 
 1.4     You hereby confirm that your subscription of the Services hereunder will at all times remain in compliance with all the applicable laws and regulations, meet the requirements of public morality, will not be in conflict with the laws and regulations of your country or region, and will not damage the legitimate rights and interests of any third party. You commit to indemnify and hold the Company, as well as its directors, shareholders, and employees, harmless from any claims, liabilities, losses, or damages arising out of or in connection with any violation of the above by you. 
 
