@@ -2,7 +2,7 @@
 
 Services (**“Services”**) are products and services provided by {{entityName}}. (**“Company”**). 
 
-Services introduction and Pricing is available on the Product page [https://www.{{title}}.com/cdn360](https://{{siteDomain}}/cdn360) (referred to as **“Product Page”** or **“Pricing page”**).
+Services introduction and Pricing is available on the Product page [https://www.{{siteDomain}}/cdn360](https://{{siteDomain}}/cdn360) (referred to as **“Product Page”** or **“Pricing page”**).
 
 Documentation is available at [https://docs.{{siteDomain}}](https://cdn360doc.{{siteDomain}}) (**“Documentation site”**). 
 
