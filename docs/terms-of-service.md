@@ -20,7 +20,7 @@ Before you subscribe to and begin using Services, the Company assumes that you h
 
 1.4     You hereby confirm that your subscription of the Services hereunder will at all times remain in compliance with all the applicable laws and regulations, meet the requirements of public morality, will not be in conflict with the laws and regulations of your country or region, and will not damage the legitimate rights and interests of any third party. You commit to indemnify and hold the Company, as well as its directors, shareholders, and employees, harmless from any claims, liabilities, losses, or damages arising out of or in connection with any violation of the above by you. 
 
-1.5 You hereby confirm that you have read the [Acceptable Use Policy](https://drive.google.com/open?id=1Vvg_ce1RHzfaeV6xIm6JkRzFvapzaoqiEPfJTGZLiJU) (AUP), understand it and agree to be bound by it.
+1.5 You hereby confirm that you have read the [Acceptable Use Policy](</docs/aup.md>) (AUP), understand it and agree to be bound by it.
 
 ## 2. Account
 
