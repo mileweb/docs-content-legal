@@ -4,7 +4,7 @@ Services (**“Services”**) are products and services provided by {{entityName
 
 Services introduction and Pricing is available on the Product page [https://www.{{siteDomain}}/cdn360](https://{{siteDomain}}/cdn360) (referred to as **“Product Page”** or **“Pricing page”**).
 
-Documentation is available at [https://docs.{{siteDomain}}](https://cdn360doc.{{siteDomain}}) (**“Documentation site”**). 
+Documentation is available at [https://docs.{{siteDomain}}](https://docs.{{siteDomain}}) (**“Documentation site”**). 
 
 Self-service Portal is available at [https://console.{{siteDomain}}](https://console.{{siteDomain}}) (hereinafter collectively referred to as **“the Portal”** or **“Product Portal”**).
 
