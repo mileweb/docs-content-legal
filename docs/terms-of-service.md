@@ -44,6 +44,7 @@ You should be responsible for all the operations and contents under your account
 - (iii). where you found any fraudulent use or illegal theft of your username or password, or any other action lacking your authorization, you should notify the Company promptly, and ask us to suspend the relevant services. Meanwhile, you understand that the Company needs a reasonable time to respond to your request and take action. The Company shall assume no liability for the operation executed before your reporting and/or notification and all the consequential losses caused therefrom.
 - (iv). should you forget or lose your username, password or other credentials, you agree to contact the Company in the first place, and reset your password according to the instructions on the Product Portal.
 
+
 2.4 <span style="text-decoration:underline;">Account Termination</span>.
 
 The Company reserves the right to terminate your account and suspend or terminate the Services in the event you violated the applicable laws and regulations or materially breached your obligations under this Agreement.
@@ -69,6 +70,8 @@ The Company reserves the right to terminate your account and suspend or terminat
 3.9     You also warrant not to use the Services provided by the Company to engage in activities that endanger (or may endanger) telecommunications or network security, or disrupt (or may disrupt) normal telecommunication operations. You understand and accept that when it comes to the Internet, if your account and/or application endangers the legitimate rights and interests of any third party, the Company has the right to suspend the use of your account at any time, and accepts no financial or other liability in doing so. 
 
 3.10    You acknowledge that the Company is entitled to suspend or terminate the Services provided to you without refund of service fees if you are in breach of the foregoing commitments, or if the Company receives order(s) from any government authority or legitimate claim(s) from a third party. You agree to compensate the Company for any losses caused therefrom.
+
+3.11    You acknowledge that the “protocol downgrade” feature, once enabled causes data to be exchanged in clear text between CDN360 servers and the origin. As a result, any secret message that had been encrypted between the client and the CDN360 servers will be vulnerable to eavesdropping.
 
 ## 4. Rights and Obligations of the Company
 
