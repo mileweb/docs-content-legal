@@ -9,7 +9,9 @@
   "routes": [
     { "title": "AUP", "path": "/docs/aup.md" },
     { "title": "Cookie Policy", "path": "/docs/cookie.md" },
+    { "title": "Customer Support", "path": "/docs/support.md" },
     { "title": "Privacy", "path": "/docs/privacy.md" },
+    { "title": "SLA", "path": "/docs/sla.md" },
     { "title": "Terms of Service", "path": "/docs/terms-of-service.md" }
   ]
 }
