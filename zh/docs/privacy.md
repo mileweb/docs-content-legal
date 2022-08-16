@@ -1,82 +1,76 @@
-# Privacy & Security Policy
+# 隐私和安全政策
 
-## 1. Summary
+## 1. 概述
 
-{{title}} is committed to protecting your personal information. This Privacy Policy relates to our collection, use, disclosure, transfer, and storing of your personal information when accessing our online services. It also relates to our use of any personal information you provide to us by phone, SMS, email, IM/chat, in letters and other correspondence, and in person.
-
-Our Privacy Notice below is designed to inform you about the information we collect, how we use this information, the security we use, any sharing of your information, and your rights in relation to this personal information in order to comply with EU GDPR, KR PIPA, SG PDPA, US-CA CCPA, and other government regulations related to data privacy.
-
-## 2. Personal data we collect
-
-We collect personal information from you for the following purposes:
-
-*   To access our products and services or so that we can send you information that you request regarding our products and services, you may be asked to provide personal information (such as your name, telephone number, mailing address, and email address etc...). This information is used to communicate with you, respond to your requests for the purposes for which you submitted the information, or to improve our products and services.
-*   We may, from time to time, contact you to notify you of a particular offering that may be of interest to you. If you do not wish to receive information about our products and services, please let us know by contacting us.
-*   We may record telephone conversations to offer you additional security, resolve complaints, and improve service standards.
-*   We may record CCTV footage in our workplaces and datacenters to offer you additional security, resolve complaints, and improve service standards.
-
-## 3. How we use your personal data
-
-The personal information we collect is for specified purposes and services we provide to you including:
-
-*   providing our services, activities, or online content and information about them;
-*   dealing with your requests and inquiries, including where we have a commercial relationship in place;
-*   supporting the growth and sustainability of our business;
-*   assessing how to improve the services we provide to you; and
-*   deciding how best for us to communicate with you.
-
-We use your personal information only for the purposes it was collected. We do not use your personal information for any different purpose other than for what it was obtained without notifying you and seeking your permission first.
-
-## 4. Sharing your personal data
-
-We will only share your information with {{title}}-authorised third parties for specific purposes related to the services we are offering you such as through our account management database. We do not allow third-parties to use your personal information for any other purposes.
-
-We may have to share your personal data as required with regulatory authorities or with law enforcement agencies.
-
-We may use other companies and individuals to work on our behalf or to review information in order to help us make decisions for the benefit of {{title}} and its customers. This may include statistical analysis, market research, IT processing, insurance providers, and credit agencies.
-
-We make commercially reasonable efforts to ensure that our affiliates and business partners protect your information consistent with this Privacy Statement.
-
-To deliver products and services to you, it is sometimes necessary for us to transfer your personal information to places outside your home country or region, where it may be stored and processed.  If this happens, we will ensure that the transfer is compliant with all information protection laws and all personal information is secure. By submitting your personal information to us, you agree to the transfer, storing, or use of your information outside your home country or region in the manner described above.
-
-## 5. Keeping your personal data secure
-
-We employ physical, technical, and administrative safeguards to protect the confidentiality and security of your personal information. We use industry-standard procedures to protect your information from loss, misuse, or unauthorized access.
-
-Appropriate technical and organizational measures are taken to protect your data.  However, {{title}} cannot guarantee that its security measures will be sufficient and not be breached and that your information will not be disclosed or otherwise accessed in an unauthorized manner.
-
-In the event of any unauthorized access to your information, {{title}} will respond in line with any data breach requirements as detailed in the relevant regulations, including EU GDPR, in accordance with the {{title}} data incident response plan.
+{{title}} 致力于保护您的个人信息。本隐私政策描述了，当您访问我们的在线服务时，我们如何收集、使用、披露、传输和存储您的个人信息。我们将通过电话、短信、电子邮件、即时消息/聊天、信件和其他信件收集您向我们提供的个人信息。
+下述隐私政策旨在告知您我们收集的信息类别、我们如何使用这些信息、我们使用信息的安全性、信息的共享以及您的相关权利，以遵守适用的数据隐私相关的法律、法规。
 
 
-## 6. Data accuracy and your privacy rights
+## 2. 我们收集的个人信息
 
-We require our customer information to be accurate and kept up to date. Inaccurate personal data will be amended or deleted without delay where we are notified of the updated information.
+我们收集个人信息的目的如下：
 
-Our customers, as data subjects, have the right to rectify or have their personal data updated, and we will make these changes without delay on request.
+*   为了访问我们的产品和服务，或者我们向您发送，您要求的关于我们的产品和服务的信息，可能会要求您提供个人信息（例如您的姓名、电话号码、邮寄地址和电子邮件地址等）。此信息用于与您沟通、响应您的请求，以达到您提交信息的目的，或用于改进我们的产品和服务。
+*   我们可能会不时联系您，通知您可能感兴趣的特定产品。如果您不希望收到有关我们产品和服务的信息，请联系我们。
+*   我们可能会录制电话通话，为您提供额外的安全保护，解决投诉，并提高服务标准。
+*   我们可能会在工作场所和数据中心录制录像，为您提供额外的安全保护，解决投诉，并提高服务标准。
 
-Our customers, as data subjects, also have the right to be kept informed of how we collect and process your data, which we endeavour to do through this privacy notice.
+## 3. 我们如何使用您的个人信息
 
-Our customers, as data subjects, also have the right to request:
+我们收集个人信息用于特定目的，并为您提供服务，包括：
 
-*   Knowledge about how we protect your personal information (as set out in this notice);
-*   Unsubscription from our newsletter, marketing, or any other services where we rely on your consent for holding your personal information. We will ensure you are unsubscribed as soon as possible;
-*   Restricting our use of your personal information and to object to your personal information being processed;
-*   No longer using your personal information in certain ways (as set out in the notice);
-*   Deleting your personal information. Unless we have reasonable grounds to refuse to delete your personal information, we will securely delete the personal information in question within one month. The personal information may continue to exist in certain backups, but we will take steps to ensure that it will not be accessible; and
-*   Requesting access to the personal information that we hold about you. Recognize that this right is only available in certain countries, including European Union (EU), European Economic Area (EEA), and South Korea, at the time of this update.
+*   提供服务、开展活动或在线内容及相关信息；
+*   处理您的请求和咨询，包括建立商业关系；
+*   支持我们业务的增长和可持续性；
+*   评估如何改进服务；和
+*   决定我们与您沟通的最佳方式。
 
-We will endeavour to comply with such requests as soon as possible, but in any event we will comply within one month of receipt (unless a longer period of time to respond is reasonable by virtue of the complexity or number of your requests).
+我们仅将您的个人信息用于收集目的。我们不会将您的个人信息在未通知您，并且未征得您同意的情况下用于任何其他目的。
 
-Please see below details to contact us in order to exercise any of your rights outlined above.
+## 4. 个人信息的共享
 
-## 7. Updates to our privacy notice and statement
+我们将仅与 {{title}} 授权的第三方共享您的信息，用于我们向您提供的服务相关的特定目的，例如通过我们的账户管理数据库。我们不允许第三方将您的个人信息用于任何其他目的。
 
-We may update our Privacy Notice from time to time. If we modify our Privacy Notice, we will post the revised version in this online location with an updated revision date.
+我们可能需要根据要求与监管机构或执法机构共享您的个人信息数据。
 
-If we make any material changes to our Privacy policy, we may also notify you by other means of the changes taking effect, such as by phone, post, or posting a notification on our website.
+我们有权利用其他公司和个人代表我们工作或审查信息，以帮助我们做出有利于{{title}} 客户的决策。这可能包括统计分析、市场研究、IT处理、保险和信贷评估。
+我们将在商业上做出合理努力，确保我们的附属公司和业务合作伙伴根据本隐私政策保护您的个人信息。
 
-This privacy notice was last updated in December 2019.
+为了向您提供产品和服务，我们有时需要将您的个人信息传输到您所在国家或地区以外的地区，在那里存储和处理您的个人信息。如果发生这种情况，我们将确保传输符合所有适用的个人信息保护法律，并且所有个人信息都是安全的。通过向我们提交您的个人信息，您同意以上述方式在您所在国或地区以外转移、存储或使用您的信息。
 
-## 8. How to contact us
+## 5. 保护您的个人信息安全
 
-If you have any questions, concerns or suggestions related to our Privacy Notice above, you can contact our Privacy Team using the information contained at [https://www.{{siteDomain}}/contact](https://www.{{siteDomain}}/contact) or sending an e-mail to abuse@{{siteDomain}}
+我们采用物理、技术和管理保障措施来保护您个人信息的机密性和安全性。我们使用行业标准程序保护您的信息，使其免受丢失、误用或未经授权的访问。
+我们采取了适当的技术和组织措施来保护您的信息。然而，我们不能保证安全措施是充分的，且不会被违反，也不能保证您的信息不会被披露或以未经授权的方式访问。
+如果您的信息被未经授权访问，我们将根据数据事件响应计划，按照相关法规中规定的数据泄露要求进行响应。
+
+
+## 6. 个人信息数据的准确性和您的隐私权
+
+我们保持更新客户信息，保证您个人信息的准确性。一旦我们收到更新信息的通知，不准确的个人信息数据将立即被修改或删除。
+我们的客户作为数据主体，有权更正或更新其个人信息数据，我们将根据要求立即进行更改。
+作为数据主体，我们的客户也有权随时了解我们如何收集和处理个人信息数据。
+我们的客户作为数据主体，也有权要求：
+
+*   了解我们如何保护个人信息；
+*   取消订阅我们的时事通讯、营销或任何其他服务，在这些服务中，我们基于您的同意来保存您的个人信息。我们将确保您尽快取消订阅；
+*   限制我们使用您的个人信息，并反对处理您的个人信息；
+*   不再以某些方式使用您的个人信息；
+*   删除您的个人信息。除非我们有合理理由拒绝删除您的个人信息，否则我们将在一个月内安全删除相关个人信息。个人信息可能继续存在于某些备份中，但我们将采取措施确保其不可访问；和
+*       • 请求访问您的个人信息。
+我们将努力尽快响应此类请求，但无论如何，我们将在收到请求后一个月内响应（除非由于您的请求的复杂性或数量较多，需要更长的响应时间）。
+请参阅第9条的信息与我们联系，以便行使您的上述任何权利。
+
+## 7. 隐私政策的更新
+
+我们可能会不时更新我们的隐私政策。如果我们修改了隐私政策，我们将在此网站发布修订版，并注明修订日期。
+如果我们对隐私政策做出重大更改，我们还可能通过其他方式通知您更改生效，例如通过电话、邮寄或在我们的网站上发布通知。
+本隐私政策更新于2022年7月。
+
+## 8. 未成年人的个人信息
+我们不向未成年人提供服务，未成年人不得创建自己的用户帐户。您不应借给或允许任何第三方使用您的企业安全访问帐户，包括您家庭中的未成年人。
+“未成年人”的定义受适用法律管辖
+
+## 9. 联系我们
+
+如果您对上述隐私政策有任何疑问、担忧或建议，您可以通过下述信息联系我们的隐私团队[https://www.{{siteDomain}}/contact](https://www.{{siteDomain}}/contact) 或发送电子邮件至 abuse@{{siteDomain}}
