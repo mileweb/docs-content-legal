@@ -48,7 +48,7 @@ Cookie是一个小文本文件，当您访问网站时，它存储在您的计�
 ## 管理计算机上的Cookie
 
 您可以通过调整web浏览器上的设置来管理Cookie（浏览器的“帮助”功能将提供有关如何执行此操作的更多详细信息。请注意，禁用Cookie可能会影响您访问此网站和其他网站的功能。
-若要了解更多如何管理Cookie的信息，请访问 www.aboutcookies.org 或 www.allaboutcookies.org。
+若要了解更多如何管理Cookie的信息，请访问 [www.aboutcookies.org](http://www.aboutcookies.org/) 或 [www.allaboutcookies.org](http://www.allaboutcookies.org/)。
 
 
 
