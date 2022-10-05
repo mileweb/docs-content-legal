@@ -2,7 +2,7 @@
 
 Services (**“Services”**) are products and services provided by {{entityName}}. (**“Company”**). 
 
-Services introduction and Pricing is available on the Product page [https://www.{{siteDomain}}/cdn360](https://{{siteDomain}}/cdn360) (referred to as **“Product Page”** or **“Pricing page”**).
+Services introduction and Pricing is available on the Product page [https://www.{{siteDomain}}/cdnpro](https://{{siteDomain}}/cdnpro) (referred to as **“Product Page”** or **“Pricing page”**).
 
 Documentation is available at [https://docs.{{siteDomain}}](https://docs.{{siteDomain}}) (**“Documentation site”**). 
 
@@ -71,7 +71,7 @@ The Company reserves the right to terminate your account and suspend or terminat
 
 3.10    You acknowledge that the Company is entitled to suspend or terminate the Services provided to you without refund of service fees if you are in breach of the foregoing commitments, or if the Company receives order(s) from any government authority or legitimate claim(s) from a third party. You agree to compensate the Company for any losses caused therefrom.
 
-3.11    You acknowledge that the “protocol downgrade” feature, once enabled causes data to be exchanged in clear text between CDN360 servers and the origin. As a result, any secret message that had been encrypted between the client and the CDN360 servers will be vulnerable to eavesdropping.
+3.11    You acknowledge that the “protocol downgrade” feature, once enabled causes data to be exchanged in clear text between CDN Pro servers and the origin. As a result, any secret message that had been encrypted between the client and the CDN Pro servers will be vulnerable to eavesdropping.
 
 ## 4. Rights and Obligations of the Company
 

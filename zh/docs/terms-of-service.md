@@ -1,170 +1,173 @@
-# Terms of Service
+# 服务条款 
 
-Services (**“Services”**) are products and services provided by {{entityName}}. (**“Company”**). 
+服务（“服务”）是指 {{entityName}}. （“公司”）提供的产品和服务。
 
-Services introduction and Pricing is available on the Product page [https://www.{{siteDomain}}/cdn360](https://{{siteDomain}}/cdn360) (referred to as **“Product Page”** or **“Pricing page”**).
+产品页面提供服务介绍和定价，详见：[https://www.{{siteDomain}}/cdnpro](https://{{siteDomain}}/cdnpro) （称为“产品页面”或“定价页面”）。
 
-Documentation is available at [https://docs.{{siteDomain}}](https://docs.{{siteDomain}}) (**“Documentation site”**). 
+文件可从右侧网址获得：[https://docs.{{siteDomain}}](https://docs.{{siteDomain}}) （“文件网站”）。
 
-Self-service Portal is available at [https://console.{{siteDomain}}](https://console.{{siteDomain}}) (hereinafter collectively referred to as **“the Portal”** or **“Product Portal”**).
+自助服务门户位于[https://console.{{siteDomain}}](https://console.{{siteDomain}}) （以下统称为“门户”或“产品门户”）。
 
-Before you subscribe to and begin using Services, the Company assumes that you have fully read, understood, and accepted the following terms and conditions as well as all exhibits and additions (hereinafter referred to as “**Agreement**”). If you do not agree to or do not wish to be bound by this Agreement, you may not access or otherwise use Services. 
+在您订阅并开始使用服务之前，本公司假设您已充分阅读、理解并接受以下条款和条件以及所有附件和补充（以下简称“协议”）。如果您不同意或不希望受本协议约束，您可能无法访问或以其他方式使用服务。
 
-**1. General Terms** 
+**1. 通用条款** 
     
-1.1     Your use of Services at the Portal is governed by the following terms and conditions. Your completion of the trial submission, registration and/or activation process of Services indicate that you agree to comply with all the terms and conditions hereunder.
+1.1     您在门户网站上使用服务受以下条款和条件管辖。您完成服务的试用提交、注册和/或激活过程表明您同意遵守本协议的所有条款和条件。
 
-1.2     You agree that the Company may, at its sole discretion, modify, amend, or update this Agreement from time to time and adjust the relevant services, functions, rules, and product introductions accordingly (including, but not limited to, the specifications, characteristics, API interface) and such modification, amendment, or adjustment will be distributed by message or be posted on the Portal. You are also advised to regularly check for any amendments or updates at the Portal or the Product page. Your continuous use of the Services will signify your acceptance of the changed terms. You can choose to stop using Services if you do not adhere to the changes.
+1.2     您同意，公司可自行决定不时修改、修订或更新本协议，并相应调整相关服务、功能、规则和产品介绍（包括但不限于规范、特性、API接口），此类修改、修订或调整向您发送消息通知或在门户网站上更新。我们还建议您定期在门户网站或产品页面上查看任何修订或更新。您继续使用这些服务将表明您接受更改后的条款。如果不接受更改，您可以选择停止使用服务。
 
-1.3     You, as an individual or business entity/organization that legally operates in your jurisdiction, have the right to use the Services provided by the Company. Those Services are available only to those individuals or business entities who can form legally binding contracts under the laws applicable. If you are signing for and/or are a representative for a business entity, you represent and warrant that you are duly authorized by the business entity to accept these terms and conditions, and you have the authority to bind that business entity to these terms and conditions. If you do not meet the above requirements, you must stop using Services immediately.
+1.3     您作为在您司法管辖区内合法经营的个人或商业实体/组织，有权使用公司提供的服务。这些服务仅适用于根据适用法律可以签订具有法律约束力合同的个人或商业实体。如果您是某个商业实体的签字人和/或代表，您声明并保证您已获得该商业实体的正式授权，可以接受这些条款和条件，并且您有权约束该商业实体遵守这些条款和条件。如果您不符合上述要求，您必须立即停止使用服务。
 
-1.4     You hereby confirm that your subscription of the Services hereunder will at all times remain in compliance with all the applicable laws and regulations, meet the requirements of public morality, will not be in conflict with the laws and regulations of your country or region, and will not damage the legitimate rights and interests of any third party. You commit to indemnify and hold the Company, as well as its directors, shareholders, and employees, harmless from any claims, liabilities, losses, or damages arising out of or in connection with any violation of the above by you. 
+1.4     您特此确认， 您认购本协议项下的服务将始终遵守不时更新的所有适用的法律法规，符合公共道德要求，不会与您所在国家或地区的法律法规相冲突，也不会损害任何第三方的合法权益。您承诺赔偿并使公司及公司董事、股东和员工免受因您违反上述规定而产生或与之相关的任何索赔、责任、损失或损害。
 
-1.5 You hereby confirm that you have read the [Acceptable Use Policy](</docs/aup.md>) (AUP), understand it and agree to be bound by it.
+1.5 您特此确认，您已阅读[可接受使用政策](</docs/aup.md>) (AUP) ，理解并同意受其约束。
 
-## 2. Account
+## 2. 账户
 
-2.1 <span style="text-decoration:underline;">Trial Accounts</span>. 
+2.1 <span style="text-decoration:underline;">试用账户</span>. 
 
-Following trial account submission, free trial accounts are available for evaluating Service functions without incurring payment obligations (“**Trial Accounts**”). If the Trial Account's total usage exceeds US$50 (or equivalent) in total usage charges, as determined by the rates specified on the Pricing page, the Company may suspend the Trial Account unless you convert it to a paid account with a minimum monthly commitment of US$50. ALL TRIAL ACCOUNTS ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT ANY WARRANTY, IMPLIED OR EXPRESSED, OF ANY KIND.
+提交试用账户后，免费试用账户可用于评估服务功能，而无需承担付款义务(“**试用账户**”). 。如果试用账户的总使用费超过50美元（或同等金额，根据定价页面上指定的费率确定），公司可以暂停试用账户，除非您将其转换为每月最低承诺额为50美元的付费账户。所有试用账户均按“原样”和“可用”提供，无任何暗示或明示的任何担保。
 
-2.2 <span style="text-decoration:underline;">Registration</span>.
+2.2 <span style="text-decoration:underline;">注册</span>.
 
-Before using Services, you must first register and obtain a Service Account (“**Account**”) from the Company. You hereby acknowledge and warrant that:
+在使用服务之前，您必须首先注册并从公司获得服务账户(“**账户**”) 您在此承认并保证：
 
-- (i). during the registration (or sign-up) process, you will provide true, accurate, and complete information and update it in a timely manner. If it is reasonably suspected by the Company that the information you provided is wrong, false, outdated, or incomplete, the Company may issue a notice of inquiry (or a notice for rectification) to you, and may further delete the corresponding information, suspend the registration process, or suspend your use of the account. The Company reserves the right to suspend or terminate part or all of the Services provided hereunder and will not be responsible for the consequences of such service suspension or termination, and you will be solely responsible for any adverse consequences caused therefrom.
-- (ii). you will fill in your contact information such as e-mail address, contact number, and postal address precisely, and update the foregoing in a timely manner so that the Company can contact you. You are solely responsible for any loss or costs increasing due to the Company’s failure to reach you through the foregoing contact information during your use of Services. You fully understand and agree that it is your responsibility to maintain the validity of the contact information. In the event of any change, you agree to make update(s) as soon as possible.
+- (i). 在注册（或登录）过程中，您将提供真实、准确和完整的信息，并及时更新。如果公司合理怀疑您提供的信息错误、虚假、过时或不完整，公司可向您发出查询通知（或整改通知），并可进一步删除相应信息、暂停注册过程或暂停您使用该账户。公司保留暂停或终止本协议项下提供的部分或全部服务的权利，不对此类服务暂停或终止的后果负责，您将全权负责由此产生的任何不利后果。
+- (ii). 您应准确填写您的联系信息，如电子邮件地址、联系电话和邮政地址，并及时更新上述信息，以便公司能够与您联系。因公司未能在您使用服务期间通过上述信息联系您，而导致的任何损失或费用增加，由您全权负责。您完全理解并同意维护联系信息的有效性是您的责任。如有任何变更，您同意尽快进行更新。
 
-2.3 <span style="text-decoration:underline;">Account Security</span>.
+2.3 <span style="text-decoration:underline;">账户安全</span>.
 
-You should be responsible for all the operations and contents under your account. You agree that:
+您应负责您账户下的所有操作和内容。您同意：
 
-- (i). you have the right to use the Account provided by the Company. You are responsible for your Account, and only you can use this account. If you intend to transfer, donate, or allow other persons to use the Account, you shall send a written request to the Company prior to such action, and the successor shall have the right only to use the Account upon confirmation from the Company; otherwise, the Company reserves the right to suspend or terminate all the Services hereunder at any time and without liability.
-- (ii). the Company will identify your instructions through your credentials (username and password, associated API keys etc.), and you agree to keep your credentials in a safe place. Any and all the losses, damages, or adverse consequences arising from credentials leakage shall be borne solely by yourself. You hereby warrant that you will not disclose your credentials to any person, nor will you use any other person’s credentials during the use of Services.
-- (iii). where you found any fraudulent use or illegal theft of your username or password, or any other action lacking your authorization, you should notify the Company promptly, and ask us to suspend the relevant services. Meanwhile, you understand that the Company needs a reasonable time to respond to your request and take action. The Company shall assume no liability for the operation executed before your reporting and/or notification and all the consequential losses caused therefrom.
-- (iv). should you forget or lose your username, password or other credentials, you agree to contact the Company in the first place, and reset your password according to the instructions on the Product Portal.
+- (i). 您有权使用公司提供的账户。您对您的账户负责，只有您可以使用此账户。如果您计划转让、捐赠或允许他人使用该账户，您应在该行动之前向公司发出书面请求，继任者只有在公司确认后才有权使用该账户；否则，公司保留随时暂停或终止本协议项下所有服务的权利，且不承担任何责任。
+- (ii). 公司将通过您的凭据（用户名和密码、相关API密钥等）识别您的指令，您同意将您的凭据保存在安全的地方。因证件泄露而产生的任何损失、损害或不利后果均应由您独自承担。您在此保证，您不会向任何人披露您的凭据，也不会在使用服务期间使用任何其他人的凭据。
+- (iii). 如果您发现任何欺诈性使用或非法盗取您的用户名或密码，或任何其他未经您授权的行为，您应立即通知公司，并要求我们暂停相关服务。同时，您了解公司需要一段合理的时间来回应您的请求并采取行动。对于在您报告和/或通知之前执行的操作以及由此造成的所有间接损失，公司不承担任何责任。
+- (iv). 如果您忘记或丢失用户名、密码或其他凭据，您同意首先联系公司，并根据产品门户上的说明重置密码。
 
 
-2.4 <span style="text-decoration:underline;">Account Termination</span>.
+2.4 <span style="text-decoration:underline;">账户终止</span>.
 
-The Company reserves the right to terminate your account and suspend or terminate the Services in the event you violated the applicable laws and regulations or materially breached your obligations under this Agreement.
+如果您违反适用法律法规或严重违反本协议项下的义务，本公司保留终止您的账户、暂停或终止服务的权利。
 
-## 3. Your Rights and Obligations
+## 3. 您的权利和义务
 
-3.1     You have the right to use Internet technology and information service(s) to obtain the relevant technical support, consultation, and other value-added services provided by the Company. 
+3.1     您有权使用互联网技术和信息服务获得公司提供的相关技术支持、咨询和其他增值服务。
 
-3.2     You hereby represent and warrant that you have all the licenses and/or qualifications necessary for the performance of this Agreement as required by the relevant laws and regulations. All the liabilities and adverse consequences resulting from your lack of the foregoing licenses or qualifications shall be borne by yourself. In the interim, the Company also reserves the right to suspend or terminate the Services provided to you in this circumstance.
+3.2     您在此声明并保证，您拥有相关法律法规要求的履行本协议所需的所有执照和/或资格。因您缺失上述执照或资格而产生的所有责任和不利后果应由您自己承担。在此期间，本公司保留暂停或终止在此情况下向您提供的服务的权利。
 
-3.3     You are fully responsible for the legitimacy and appropriateness of the content you distributed through the Company Services (irrespective of the content of you or your end users’), and you are responsible for obtaining all the authorizations and permissions related to the content. You acknowledge that the Company does not assume or undertake any business and/or operational risk associated with your business or any operation or contents of your websites; meanwhile, the Company reserves the right and may without prior notice to you to suspend any use of Services or remove any content when the Company in its sole discretion believes any content or any use of the Services may result in a violation of intellectual property rights, any applicable laws, or the [Usage Policy](</docs/aup.md>).
+3.3     您对通过公司服务分发内容的合法性和适当性承担全部责任（无论您或您的最终用户的内容如何），并负责获得与内容相关的所有授权和权限。您承认，公司不承担与您的业务或您网站的任何操作相关的业务和/或运营风险；同时，如果公司自行决定认为任何内容或对服务的使用可能导致侵犯知识产权、适用法律或使用政策，则公司保留暂停使用服务或删除任何内容的权利，且无需事先通知您。
 
-3.4     You hereby represent and warrant that, while using Services, you will not engage in any activity that harms (or potentially may harm) network security, including, but not limited to phishing, hacking, Internet fraud, website(s) containing or that may unleash computer viruses, Trojan, and malicious code, and other activities that may attack other websites or servers through virtual servers (for example, scanning, sniffing, ARP cheating, and DOS); otherwise, such actions will be regarded as having breached this Agreement, and the Company will immediately terminate the Services and investigate your liability for breach.
+3.4     您在此声明并保证，在使用服务时，您不会从事任何危害（或可能危害）网络安全的活动，包括但不限于钓鱼、黑客、互联网欺诈、包含或可能传播计算机病毒、特洛伊木马和恶意代码的网站，以及其他可能通过虚拟服务器攻击其他网站或服务器的活动（例如，扫描、嗅探、ARP欺骗和DOS）；否则，此类行为将被视为违反本协议，公司将立即终止服务并追究您的违约责任。
 
-3.5     You agree to respect the intellectual property rights and all other rights of the Company and/or any third party, indemnify and hold the Company and its shareholders, employees and partners harmless from and against any losses and consequences caused by  infringement made by you (or taken on your behalf). We reserve the right to terminate the Services and will not refund any money prepaid in the event of such infringement. If a loss by the Company or any third party is due to illegal or infringement actions by you (or taken on your behalf), you agree to accept full responsibility thereupon. 
+3.5     您同意尊重公司和/或任何第三方的知识产权和所有其他权利，赔偿并使公司及其股东、员工和合作伙伴免受因您（或您代表实施）的侵权行为而造成的任何损失和后果。我们保留终止服务的权利，如果发生此类侵权行为，我们不会退还任何预付款。如果公司或任何第三方的损失是由于您（或您代表实施）的非法或侵权行为造成的，您同意就此承担全部责任。
 
-3.6     You shall make sure that the qualifications, identity information and contact information  provided to the Company are true, lawful, and valid. Any consequences resulting from the misrepresentation or untruthfulness of the aforementioned information, or the insecurity, instability of your e-mail address or telephone number for receiving notifications from the Company (including the consequential losses caused thereby) shall be borne by yourself.
+3.6     您应确保向公司提供的资质、身份信息和联系方式真实、合法、有效。因上述信息的虚假陈述或不真实，或因您接收公司通知的电子邮件地址或电话号码不安全、不稳定（包括由此造成的间接损失）而产生的任何后果均应由您独自承担。
 
-3.7     You agree to, and voluntarily use, the Service Billing and Data Inquiry System provided by the Company. Your questions or disagreements about billing or data (if any) should not be grounds for your unilateral termination/suspension of the Service and/or the relief of your payment obligations. You have the right to receive invoices from the Company and have the obligation to pay the service fees within 30 days upon the invoice date. All payments made by you under this Agreement shall be made in full without any set-off, restriction or condition and without any deductions for or on account of any counterclaim. If the company did not receive the payment within the above payment period, your Account may be suspended and/or terminated.
+3.7     您同意并自愿使用公司提供的服务计费和数据查询系统。您对账单或数据（如有）的疑问或分歧不应成为您单方面终止/暂停服务和/或免除付款义务的理由。您有权收到公司的发票，并有义务在发票日期后30天内支付服务费。您根据本协议支付的所有款项均应全额支付，不得有任何抵销、限制或条件，也不得因任何索赔而扣减任何款项。如果公司在上述付款期内未收到款项，您的账户可能会被暂停和/或终止。
 
-3.8     You agree to read the relevant Service Instructions, technical specifications, usage procedures, and operation documents posted by the Company on the Documentation site or Product Portal carefully and follow these instructions and specifications at all times. While using the Services, you should operate according to the relevant operation guidance. The Company assumes no responsibility for your failure to comply with the relevant operating instructions.
+3.8     您同意仔细阅读公司在文档网站或产品门户上发布的相关服务说明、技术规范、使用程序和操作规范等文件，并始终遵守这些说明和规范。使用服务时，应按照相关操作指南进行操作。对于您未能遵守相关操作说明，公司不承担任何责任。
 
-3.9     You also warrant not to use the Services provided by the Company to engage in activities that endanger (or may endanger) telecommunications or network security, or disrupt (or may disrupt) normal telecommunication operations. You understand and accept that when it comes to the Internet, if your account and/or application endangers the legitimate rights and interests of any third party, the Company has the right to suspend the use of your account at any time, and accepts no financial or other liability in doing so. 
+3.9     您保证不使用公司提供的服务从事危及（或可能危及）电信或网络安全，或干扰（或可能干扰）正常电信运营的活动。您理解并接受，在互联网上，如果您的账户和/或应用程序危及任何第三方的合法权益，公司有权随时暂停使用您的账户，并且不承担任何经济或其他责任。
 
-3.10    You acknowledge that the Company is entitled to suspend or terminate the Services provided to you without refund of service fees if you are in breach of the foregoing commitments, or if the Company receives order(s) from any government authority or legitimate claim(s) from a third party. You agree to compensate the Company for any losses caused therefrom.
+3.10    您承认，如果您违反上述承诺，或如果公司收到任何政府机构的命令或第三方的合法索赔，则公司有权暂停或终止向您提供的服务，而不退还服务费。您同意赔偿公司由此造成的任何损失。
 
-3.11    You acknowledge that the “protocol downgrade” feature, once enabled causes data to be exchanged in clear text between CDN360 servers and the origin. As a result, any secret message that had been encrypted between the client and the CDN360 servers will be vulnerable to eavesdropping.
+3.11    您承认，“协议降级”功能一旦启用，将导致CDN Pro服务器和源服务器之间以明文形式交换数据。因此，在客户端和CDN Pro服务器之间加密的任何机密消息都容易被窃听。
 
-## 4. Rights and Obligations of the Company
+## 4. 公司的权利和义务
 
-4.1     Subject to the terms and conditions herein, the Company will provide Services which you subscribed to and be responsible for the routine maintenance and failure recovery unless the failure or unavailability is caused by you, or due to the event(s) of _Force Majeure _(as defined below).
+4.1     根据本协议的条款和条件，公司将提供您订阅的服务，并负责日常维护和故障恢复，除非故障或不可用是由您或不可抗力事件（定义见下文）引起的。
 
-4.2	    The Company may upgrade the Services or relocate its hardware to provide you with improved services. the Company will announce or notify you of such operations in advance, and expects your support and cooperation.
+4.2	    公司可能会升级服务或迁移硬件，以向您提供更好的服务。公司将提前宣布或通知您此类操作，并期待您的支持与合作。
 
-4.3	    The Company is entitled to allocate your content in the Company’s premises or conduct other operations to meet operational and maintenance requirements, provided that the Company will not process or modify the data itself. You acknowledge that the above actions do not constitute any infringement to your privacy or confidential information.
+4.3	    如果公司无法自行处理或修改数据时，则公司有权在公司场所分发您的内容或进行其他操作以满足运营和维护要求。您承认上述行为不构成对您的隐私或机密信息的任何侵犯。
 
-4.4     The Company promises to keep your information in strict confidence and will not disclose your information to any third party or authorize any third party to use your information, unless:
+4.4     为了给您提供服务，公司有权不时引入次级处理者，您同意公司的关联公司和/或第三方服务提供商作为次级处理者为您提供服务。公司将尽商业上的合理努力促使次级处理者及其任何人员遵守适用的法律法规。
 
-- (i).  with your prior consent; 
-- (ii). it is permitted by the terms and conditions of this Agreement, or other agreements between you and - the Company, or other online terms allowing the Company to provide your information to third party;
-- (iii).it is required to be provided as ordered by administrative or judicial agency;
-- (iv). it must be submitted in order to take necessary and reasonable actions to prevent serious breach of - laws or suspected criminal accusations;
-- (v).  in order to provide products, services, and information to you (for example, the Company provides products, services and information to you by adopting third-party technology); _or_
-- (vi). disclosed to the Company affiliates.
+- (i).  经过您事先同意；
+- (ii). 根据本协议的条款和条件，或您与公司之间的其他协议，或其他线上条款，允许公司向第三方提供您的信息；
+- (iii).行政或司法机构要求提供；
+- (iv). 为了采取必要和合理的行动，防止严重违反法律或涉嫌刑事指控而必须提交报告；
+- (v).  为了向您提供产品、服务和信息（例如，公司通过采用第三方技术向您提供产品、服务和信息）；或
+- (vi). 向关联公司披露。
 
 
-4.5     To collect the Service fee, the Company will provide an invoice to you and may  charge at the credit card that you have provided during the sign-up process. If the information required to process an invoice was changed, you must notify the Company immediately and provide updated billing information. Your provision of your credit card information to the Company constitutes your authorization to the Company of charging your credit card for Services specified in a Service Order.
+4.5     为收取服务费，公司将向您提供发票，并可使用您在注册过程中提供的信用卡收费。如果处理发票所需的信息发生更改，您必须立即通知公司并提供更新的账单信息。您向本公司提供信用卡信息，即构成您对本公司的授权，授权公司就服务订单中指定的服务向您的信用卡收费。
 
-## 5. System Interruption or Failure
+## 5. 系统中断或故障
 
 
-The service system may fail to function properly and you may be unable to use the network services for the following reasons:
-- (i).    any out of order of telecommunication facilities and failure of data transmission therefore;
-- (ii). 	events beyond the reasonable control of the Company, such as: act of God, typhoon, earthquake, tsunami, flood, power failure, war, and/or terrorist attack (“Event of _Force Majeure_”);
-- (iii).  unauthorized attempts to access data, virus intrusions, technical adjustments, telecommunications failures, system upgrades, or bank-payment problems.
+因出现下述情况，服务系统可能无法正常运行，您可能无法使用服务：
+- (i).    任何通信设施故障和数据传输故障；
+- (ii).   公司无法合理控制的事件，例如：天灾、台风、地震、海啸、洪水、停电、战争和/或恐怖袭击（“不可抗力事件”）；
+- (iii).  未经授权尝试访问数据、病毒入侵、技术调整、电信故障、系统升级或银行支付问题；
 
+公司不对上述事件造成的或与之相关的损害承担责任。
 
-The Company will not be liable for the damages caused by or in connection with the above events.
 
-## 6. Scope and Limitation of Liability
+## 6. 责任范围和限制
 
 
-6.1     The Company shall only be responsible for the liabilities specified in this Section.
+6.1     公司仅对本节规定的责任负责。
 
-6.2     The Company will not be liable for: 
+6.2     公司不对以下事项负责：
 
-- (i). 	any loss of your data; 
-- (ii). service unavailability due to the misconfiguration of your system or other reasons attributable to you; 
-- (iii).losses incurred by you or any third party due to the acts or omissions of other third parties; _or _
-- (iv).	losses incurred by a third party who receives the Company’ Services indirectly through you.
+- (i). 	您数据的丢失；
+- (ii). 由于您的系统配置错误或其他归因于您的原因导致的服务不可用；
+- (iii).您或任何第三方因其他第三方的作为或不作为而遭受的损失；或
+- (四).	通过您间接接受公司服务的第三方遭受的损失。
 
 
-6.3	    Notwithstanding any other provision hereof and to the maximum extent permitted by law, the Company shall not be liable for (i). any indirect, incidental, consequential, special, punitive or exemplary damages; _or_ (ii). any damages for business interruption, loss of revenue, loss of profits, loss of business opportunity, or any other losses of economic benefits arising out of or in connection with this the performance or failure to perform under this Agreement or the use of the Services, whether or not caused by the acts or omissions or negligence of its employees or agents, and regardless of whether you have been informed of the possibility or likelihood of such damages. For any liability not excluded by the foregoing, the Company shall in no event be liable in an amount that exceeds, in the aggregate for all such liabilities, the most recent six (6) months of charges collected by the Company for the affected Services.
+6.3	    尽管本协议有任何其他规定，在法律允许的最大范围内，公司不对下述情形负责（i）任何间接、偶然、后果性、特殊、惩罚性或惩戒性损害赔偿；或（ii）因履行或未能履行本协议或使用服务而产生的或与之相关的业务中断、收入损失、利润损失、商业机会损失或任何其他经济利益损失，无论是否由其员工或代理人的作为或不作为或疏忽造成，无论您是否被告知此类损害的可能性。对于上述未排除的任何责任，在任何情况下，公司的责任总额不得超过公司最近六个月就受影响服务收取的费用。
 
-6.4     Should your website be attacked by hackers (for example, third-party network attacks), you should communicate with the Company promptly to ensure that your service level will not be affected. In such a case, it is expected that you shall pay for the traffic or bandwidth fees incurred during the event.
+6.4     如果您的网站受到黑客攻击（例如，第三方网络攻击），您应及时与公司沟通，以确保您的服务水平不会受到影响。在这种情况下，您应支付活动期间产生的流量或带宽费用。
 
-6.5	    All availability commitments of the Service shall be referred to the Service Level Agreement (SLA). In case any service unavailable event occurred, Service Credit granting mechanism shall be subject to the SLA exclusively. 
+6.5	服务的所有可用性承诺应参考服务水平协议（SLA）。如果发生任何服务不可用事件，服务Credit授予机制应仅适用于SLA。
+SLA中的所有时间将在UTC中计算。
 
 
-All TIME in SLA will be considered in UTC.
+6.8     您在此同意，根据SLA授予的服务Credit是公司未能提供服务的唯一补救措施。
 
+## 7. 知识产权保护 
 
-6.8     You hereby agree that Service Credits granted under the SLA is your sole and exclusive remedy in respect of any failures by the Company to provide Services.
+7.1     除第三方产品或服务外，产品门户上的所有内容，包括但不限于作品、图片、档案、信息、材料、架构和页面设计（统称“材料”）均为公司或其附属公司依法拥有的财产。公司对材料拥有唯一和专属的权利（包括所有权和知识产权，如商标权、专利权和版权）。
 
-## 7. Intellectual Property Rights Protection
 
-7.1     Except for third-party products or services, all contents on the Product Portal, including, but not limited to, the works, pictures, archives, information, materials, architectures, and page designs (collectively, “Materials”) are the property of the Company or its affiliates according to law. The Company has the sole and exclusive right (including proprietary right and intellectual property right, such as trademark rights, patent rights, and copyrights) over the Materials.
+7.2     除非事先获得公司（或其附属公司）的书面同意，否则任何人不得使用、修改、复制、公开传播、更改、分发或发布产品门户的程序或内容。
 
-7.2     Unless with prior written consent of the Company (or its affiliates), no one may use, modify, copy, publicly disseminate, alter, spread, distribute, or publish the programs or the contents of the Product Portal.
+7.3     您有义务尊重知识产权。您应获得软件版权和应用许可证，并自行解决其他相关事宜。公司没有义务核实上述内容。我们认为，您签署本协议意味着您已接受上述条款和条件，并已完成所有相关工作。如果发生任何违约，您应承担所有损失，公司保留终止本协议的权利。
 
-7.3     It is your obligation to respect intellectual property rights. You should obtain software copyright(s) and application license(s), and resolve other matters related thereto by yourself. the Company has no obligation to verify the foregoing. We deem that your entry into this Agreement implies that you have accepted the foregoing terms and conditions, and have completed all relevant activities. In case of any breach, you shall be liable for all the damages and the Company reserves the right to terminate this Agreement.
 
+## 8. 总则
 
-## 8. General Provisions
+8.1     整个协议包括本协议中的条款和产品门户上的规则。所有概念都可以相互引用。如有任何差异，以本协议中的条款为准。
 
-8.1     The entire agreement comprises the terms in this Agreement and the rules on the Product Portal. All the concepts can be mutually referenced. In case of any discrepancy, the terms in this Agreement shall prevail.
+8.2     您对服务的试用或付费订阅表明您理解并接受其全部规定。
 
-8.2     Your trial or paid subscription to Services indicates that you understand and accept all of its parts.
+8.3     本协议应受加利福尼亚州法律管辖并根据加利福尼亚州法律解释，不考虑法律规则或原则的适用。由本协议引起的或与本协议有关的任何法律行动、诉讼或程序应根据美国仲裁协会（“AAA”）的仲裁规则最终通过仲裁解决。将有三名仲裁员（“仲裁庭”），其中第一名仲裁员将由申请人在其仲裁通知中任命，第二名仲裁员将由被申请人在任命第一名仲裁员后三十天内任命，第三名仲裁员将由双方在任命前述仲裁员后三十天内共同任命。仲裁语言应为英语。各方应自行承担费用，但双方将平等分担仲裁费用。仲裁裁决是终局的，对双方均有约束力。将在美国加利福尼亚州圣克拉拉进行仲裁。尽管有上述规定，初步禁令救济和其他判决前的索赔可在对标的物和当事人具有管辖权的美国州或联邦法院提出。
 
-8.3     This Agreement shall be governed by and construed in accordance with the laws of the State of California without regard to application of choice-of-law rules or principles. Any legal action, suit, or proceeding arising out of or relating to this Agreement shall finally be settled by arbitration in accordance with the Arbitration Rules of the American Arbitration Association (“AAA”). There will be three (3) arbitrators (the “Arbitration Tribunal”), the first of which will be appointed by the claimant in its notice of arbitration, the second of which will be appointed by the respondent within thirty (30) days of the appointment of the first arbitrator and the third of which will be jointly appointed by the party-appointed arbitrators within thirty (30) days thereafter.  The language of the arbitration shall be English.  Each party shall bear its own expenses, but the Parties will share equally the expenses of the Arbitration Tribunal and the AAA.  The arbitration award will be final and binding to the Parties. The arbitration will be held in Santa Clara, California, USA.  Notwithstanding the foregoing, claims for preliminary injunctive relief and other pre-judgment remedies may be brought in a state or federal court in the United States with jurisdiction over the subject matter and Parties.  
+8.4	    如果本协议的任何部分被主管法院视为无效，则其余条款的有效性不受影响。本协议任何条款的不履行不影响其他条款的有效性。
 
-8.4	    Where any part of this Agreement is deemed by a competent court as invalid, the validity of the remainder provisions shall not be affected. The non-performance of any provision of this Agreement shall not affect the validity of the other provisions.
+8.5	    双方特此确认，双方选择受本协议约束是完全对等和公平的。任何一方均可自由决定是否签署本协议。签订本协议是双方的独立决定，不存在任何一方单方面增加另一方责任或逃避其自身义务的情况。签订或遵守本协议的任何一方应被视为放弃其对本协议公平性的异议。
 
-8.5	    The Parties hereby confirm that it is completely reciprocal and fair for both Parties to choose to be bound by this Agreement. Either party may freely decide to enter or not enter into this Agreement without coercion. Entering into this Agreement is the independent decision of both Parties. There is no circumstance in which either party unilaterally increases the other party's liability or evades its own obligations. Either party that enters into or complies with this Agreement shall be regarded as relinquishing its objections about the fairness of this Agreement.
 
+## 9. 关于中国法律法规的特别规定
 
-## 9. Special Provisions for China PoPs
+CDNetworks在中国的服务由其合作伙伴/关联公司提供
 
-9.1     You understand and hereby acknowledge that, where you plan to provide a service  through PoPs in China (for the purpose of this Agreement, Hong Kong, Macau, and Taiwan are not included), special laws, regulations and policies promulgated by the regulatory authorities in China must be complied. You will follow the instructions given by the Company from time to time before or after providing a service through China PoPs.
+9.1     您理解并在此承认，如果您计划通过节点在中国提供服务（就本协议而言，不包括香港、澳门和台湾），则必须遵守中国监管机构颁布的特殊法律、法规和政策。在通过中国节点提供服务之前或之后，您将遵守公司不时发出的指示。
 
 
-9.2     You hereby represent and warrant not produce, copy, publish and transmit information having the contents as follows by using telecommunication networks:
+9.2     您在此声明并保证，不使用电信网络制作、复制、发布和传输以下内容的信息：
 
 
-- (i).      against the Cardinal Principles prescribed in the Constitution of the People's Republic of China;
-- (ii).     detrimental to State security, State secrecy, State power as well as national unification;
-- (iii).    detrimental to State honor and interests;
-- (iv).     instigating national enmity or discrimination and breach of national unity;
-- (v).      breach of State religious policy, propagating heretical or superstitious ideas;
-- (vi).     disseminating rumors, disrupting social order as well as stability;
-- (vii).    disseminating obscenity, pornography, force, brutality and terror or crime-abetting;
-- (viii).   humiliating slandering others, trespassing the lawful rights and interests of others; _and_
-- (ix).     other contents forbidden by laws and regulations.”
+- (i).      违反中华人民共和国宪法规定的基本原则；
+- (ii).     有损于中国国家安全、国家秘密、国家政权和国家统一；
+- (iii).    损害中国国家荣誉和利益；
+- (iv).     煽动中国民族仇恨或歧视，破坏民族团结；
+- (v).      违反中国国家宗教政策，宣扬邪教、迷信思想；
+- (vi).     散布谣言，扰乱中国社会秩序和稳定；
+- (vii).    传播淫秽、色情、暴力、残暴和恐怖或教唆犯罪；
+- (viii).   侮辱诽谤他人，侵犯他人合法权益的；和
+- (ix).     中国法律、法规禁止的其他内容。
+
+9.3     倘若您的内容出现违反中国法律法规的情形，公司保留在接获合作伙伴/关联公司通知后毋需通知您立即中断服务的权利。
