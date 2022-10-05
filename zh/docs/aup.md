@@ -1,24 +1,61 @@
-# Acceptable use policy
-
-The acceptable use policy (AUP) specifies guidelines for users of {{entityName}} ("the Company") services ("Services"). By using Company Services, users agree to comply with this AUP.
-
-Services shall not be used in any way that violates applicable government or international laws or regulations.
-
-**You may not do any of the following:**
+# 可接受使用政策
 
 
-*   Misrepresent your affiliation with or impersonate any person or entity;
+本{{entityName}}服务使用政策（以下简称“使用政策”）为用户使用{{entityName}}服务（以下简称“产品”）时应遵守的政策。本使用政策中列明的，对于用户使用该产品的指引和限制，同样适用于通过用户直接或间接地使用该产品的任何个人或法律实体（以下简称“用户之客户”）。用户使用该产品，即表明其已阅读、了解并同意遵守本使用政策中的规定。用户应确保其客户遵守本使用政策，并对任何违反本使用政策的行为承担全部责任。
 
-*   Store, publish, display, or transmit obscene, defamatory, infringing, libelous, harassing, abusive, threatening, or otherwise unlawful or tortious material;
 
-*   Introduce malicious programs (for example, viruses, worms, Trojan horses, e-mail bombs, etc.) into the network or one or more servers ;
+一、资质及许可
 
-*   Send unsolicited e-mail messages (spam);
+1.1     在使用该产品前，用户应具备必要的互联网业务、服务经营资格，各类证照齐全。用户的源网站经营资质需要获得国家有关部门的许可或批准的，用户应自行取得该许可或批准。
+    用户不得利用{{entityName}}提供的互联网资源经营自身不具备资质的互联网业务。
 
-*   Compromise or attempt to compromise the security of the Company's or third party’s network, system, server, or account;
+1.2 用户如在使用该产品的过程中发生如下变动，应及时通知{{entityName}}：
 
-*   Disable, interfere with, or circumvent any aspect of the Services.
+- (i)  经营资质变化；
+- (ii)  因违反行业法律法规而被处罚；
+- (iii)  对其使用该产品具有影响的重大资产变化或债务信息。
 
-Any complaint or notice of violation may result in suspending the user account until addressed and terminating the account if not resolved promptly.
+二、内容的合法性
 
-The Company has the right to change, amend, or update this AUP at any time without notice. This AUP is valid immediately.  
+2.1 对于任何用户或其客户经由{{entityName}}网络及产品传输或分发的内容，用户应对其或其客户的内容承担全部责任，并妥善保存相关资料。{{entityName}}不对通过其网络或产品传输或分发的内容或任何数据的合法性或数据丢失承担责任。
+
+2.2 用户不得利用用{{entityName}}网络及产品传播、分发或存储含有病毒、蠕虫、木马或其他可能对网络及产品、任何其他网络或设备、或其他客户产生危害，或其它危害电信网络安全和信息安全、扰乱电信市场秩序的行为。
+
+三、知识产权
+
+3.1 用户使用{{entityName}}网络与产品时不得以任何方式侵犯、盗用他人的人身权利、财产权利或知识产权，包括但不限于：肖像权、隐私权、著作权、专利权、商标权、商业秘密权、信息网络传播权，或任何其它形式的专有权利。倘若用户在使用{{entityName}}网络与产品过程中发生侵权行为，该行为与{{entityName}}无关，{{entityName}}对此不承担任何责任。
+
+3.2 	{{entityName}}为提供服务而向用户提供的任何数据、软件、数据的所有权及知识产权属于{{entityName}}，{{entityName}}向用户提供服务的行为不包含任何转让、授权或许可{{entityName}}知识产权的意思表示。用户无权传播、转让、许可，或提供他人使用或共享上述资源。
+四、安全性
+
+4.1 用户不得：
+
+- (i) 访问未授权其访问的服务器、数据、帐户、数据库等；
+- (ii) 未经授权试图违反安全或验证规定，或试图探查、扫描或测试系统/网络漏洞；
+- (iii) 未经授权试图使用第三方账户或身份；
+- (iv) 将互联网带宽以任何方式（包括但不限于私拉光纤进行转接、建立VPN隧道等手段）为其他运营商或互联单位等提供穿透流量接入；或
+- (v) 采取任何措施以获取其无权访问的服务。
+
+4.2 	对于{{entityName}}向用户源站点自动获取的或由{{entityName}}主动推送的内容，用户应自行采取必要的技术与组织措施，对原始数据进行妥善备份，避免原始数据被非法访问或使用。
+
+五、合规性
+
+5.1 	倘若关政府机关就用户使用{{entityName}}网络与产品下达调查令、禁令或类似要求，{{entityName}}将按政府机关要求配合执行，该情形下{{entityName}}毋须对用户承担任何赔偿责任。
+六、{{entityName}}权利与救济
+
+6.1 倘若：
+
+- (i) 用户有违反本使用政策，或违法、违规的行为，导致有关管理部门对用户采取法律措施；或
+
+- (ii) {{entityName}}收到第三方权利人对于用户的主张，
+{{entityName}}有权立即阻止对被控侵权/违法的内容的访问权限、暂停或中止提供服务，或采取{{entityName}}认为恰当的任何其他行动，并待问题查清处理完毕后再恢复提供服务。
+若持续提供服务将违反法律法规的规定，或侵犯第三方权利人的权利，{{entityName}}保留终止向用户提供服务及解除相关订单的权利。
+因采取上述行动而对用户造成损失的，{{entityName}}不承担责任。
+{{entityName}}将尽力在采取上述行动前告知客户。
+
+6.2 {{entityName}}可协助监管机构及第三方权利人对被控行为进行调查，包括应监管机构要求向其披露相关信息。
+
+6.3 若{{entityName}}因用户的违法或侵权行为而受到声誉损害，或相关业务/资质被限制，{{entityName}}有权要求用户赔偿其因此遭受的损失。
+
+七、其他
+7.1 {{entityName}}保留不时修改本使用政策的权利。该等修改在{{entityName}}通知用户三十日后对用户生效。

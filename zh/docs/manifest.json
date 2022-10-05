@@ -7,9 +7,9 @@
     "links": []
   },
   "routes": [
-    { "title": "AUP", "path": "/docs/aup.md" },
-    { "title": "Cookie Policy", "path": "/docs/cookie.md" },
-    { "title": "Privacy", "path": "/docs/privacy.md" },
-    { "title": "Terms of Service", "path": "/docs/terms-of-service.md" }
+    { "title": "可接受使用政策", "path": "/docs/aup.md" },
+    { "title": "Cookie政策", "path": "/docs/cookie.md" },
+    { "title": "隐私和安全政策", "path": "/docs/privacy.md" },
+    { "title": "服务条款", "path": "/docs/terms-of-service.md" }
   ]
 }

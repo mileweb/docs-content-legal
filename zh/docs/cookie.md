@@ -1,57 +1,59 @@
-# Cookie Policy
+# Cookie政策
 
 
-## What do I need to know about cookies?
+## 关于Cookie，您需要知道什么？
 
-A cookie is a small text file that’s stored on your computer or mobile device when you visit a website. We use them to ensure your access to our portal is secure.
-
-You will normally see a message appear on the site before we store a cookie on your computer.
-
-
-## {{title}} use of Cookies
-
-**We will never link the cookie to any personal information about you we hold.**
-
-{{title}} cookies are limited to our site only and are not designed to follow you when browsing to other sites after leaving the {{title}} website.
-
-{{title}} makes use of cookies to enable you to sign in to our customer portal.
+Cookie是一个小文本文件，当您访问网站时，它存储在您的计算机或移动设备上。我们使用它们来确保您对我们门户的访问是安全的。
+在我们将Cookie存储到您的计算机上之前，您通常会在页面上看到一条信息。
 
 
-## Cookie Types
+## {{title}} 对Cookie的使用
 
-By lifespan cookies are either:
+**我们不会将cookie与我们持有的任何关于您的个人信息相关接。**
+
+{{title}} Cookie 仅限于我们的网站，在您离开{{title}} 网站后浏览其他网站时
+
+{{title}} Cookie将不会继续存储在您的计算机或移动设备上。
+
+{{title}} 利用Cookie使您能够登录我们的客户门户。
 
 
-## Session cookies
+## Cookie类型
 
-These are stored while you are using our customer portal. They get deleted from your device when you close your browser.
+根据使用期限，Cookie分为：
 
-## Persistent cookies
 
-These are saved on your computer, so they don’t get deleted when you close your browser. Persistent cookies are used when we need to know who you are for more than one browsing session. For example, they are used to remember your preferences for the next time you visit.
+## 会话Cookie
 
-From a website domain perspective, cookies are either from a first party, or third party.
+这类Cookie会在您使用我们的客户门户时存储在您的计算机或移动设备上。当您关闭浏览器时，它们会从您的设备中删除。
 
-## First party cookies
+## 持久Cookie
 
-These are set by our website when you’re visiting, and only our website can read them. They are used primarily for providing certain features and they help us measure and improve the website. 
+这类Cookie将保存在您的计算机上，所以在您关闭浏览器时不会被删除。当您打开多个浏览会话时，我们会使用这类Cookie识别您的身份。例如，记住您的偏好，用于您的下次访问。y
 
-## Third party cookies
+从网站域的角度来看，Cookie来自第一方或第三方。
 
-When you visit the {{title}} websites you may notice some cookies that are not related to us. We do not control the generation of these cookies, so we suggest that you check the individual third-party websites for more information about their cookies and how to manage them. {{title}} has no control over third party cookies.
+## 第一方Cookie
 
-## Advertising cookies
+在您访问我们的网站时，我们将设置这类Cookie，只有我们的网站可以分析它们。这类Cookie主要用于提供某些功能，并帮助我们提升和改进网站。
 
-Some websites use advertising networks to show you specially targeted adverts when you visit. These networks may also be able to track your browsing across different sites. {{title}} does not use advertising cookies.
+## 第三方Cookie
 
-## Managing Cookies on your computer
+当您访问我们的网站时，您可能会注意到一些与我们无关的Cookie。我们不控制这类Cookie的生成，因此我们建议您查看各个第三方网站，了解其Cookie的使用政策以及如何管理这类Cookie。我们无法控制第三方Cookie。
 
-You can manage cookies by adjusting the settings on your web browser (the ‘Help’ section of your browser will provide more details on how to do this.  Be aware that disabling cookies may affect the functionality of this and many other websites that you visit.
+## 广告Cookie
 
-Find out more about how to manage cookies by visiting [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/) .
+一些网站在您访问时向您展示具有针对性的广告。这些网站还可以跟踪您在不同网站上的浏览记录。我们不使用广告Cookie。
 
-## More Information
+## 管理计算机上的Cookie
 
-Hopefully this information has clarified things for you.  However, if you require further information then you can contact us at:
+您可以通过调整web浏览器上的设置来管理Cookie（浏览器的“帮助”功能将提供有关如何执行此操作的更多详细信息。请注意，禁用Cookie可能会影响您访问此网站和其他网站的功能。
+若要了解更多如何管理Cookie的信息，请访问 [www.aboutcookies.org](http://www.aboutcookies.org/) 或 [www.allaboutcookies.org](http://www.allaboutcookies.org/)。
+
+
+
+## 更多信息
+
+希望Cookie政策为您澄清了一些事项。如果您需要更多信息，可以通过以下地址联系我们： 
 
 1550 Valley Vista Drive, Suite 110, Diamond Bar, California 91765, USA
