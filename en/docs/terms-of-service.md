@@ -10,7 +10,7 @@ Self-service Portal is available at [https://console.{{siteDomain}}](https://con
 
 Before you subscribe to and begin using Services, the Company assumes that you have fully read, understood, and accepted the following terms and conditions as well as all exhibits and additions (hereinafter referred to as “**Agreement**”). If you do not agree to or do not wish to be bound by this Agreement, you may not access or otherwise use Services. 
 
-**1. General Terms** 
+## 1. General Terms
     
 1.1     Your use of Services at the Portal is governed by the following terms and conditions. Your completion of the trial submission, registration and/or activation process of Services indicate that you agree to comply with all the terms and conditions hereunder.
 
@@ -158,7 +158,7 @@ All TIME in SLA will be considered in UTC.
 9.1     You understand and hereby acknowledge that, where you plan to provide a service  through PoPs in China (for the purpose of this Agreement, Hong Kong, Macau, and Taiwan are not included), special laws, regulations and policies promulgated by the regulatory authorities in China must be complied. You will follow the instructions given by the Company from time to time before or after providing a service through China PoPs.
 
 
-9.2     You hereby represent and warrant not produce, copy, publish and transmit information having the contents as follows by using telecommunication networks:
+9.2     You hereby represent and warrant not to produce, copy, publish and transmit information having the contents as follows by using telecommunication networks:
 
 
 - (i).      against the Cardinal Principles prescribed in the Constitution of the People's Republic of China;
