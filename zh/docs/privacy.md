@@ -73,4 +73,4 @@
 
 ## 9. 联系我们
 
-如果您对上述隐私政策有任何疑问、担忧或建议，可以通过下述信息联系我们的隐私团队https://www.{{siteDomain}}/contact 或发送电子邮件至 abuse@{{siteDomain}} 
+如果您对上述隐私政策有任何疑问、担忧或建议，可以通过下述信息联系我们的隐私团队https://www.{{siteDomain}}/cn/contact 或发送电子邮件至 abuse@{{siteDomain}} 
