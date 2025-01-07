@@ -2,9 +2,9 @@
 
 服务（“服务”）是指 {{entityName}}. （“公司”）提供的产品和服务。
 
-产品页面提供服务介绍和定价，详见：[https://www.{{siteDomain}}/cdnpro](https://{{siteDomain}}/cdnpro) （称为“产品页面”或“定价页面”）。
+产品页面提供服务介绍和定价，详见：[https://www.{{siteDomain}}/cn/cdnpro](https://{{siteDomain}}/cn/cdnpro) （称为“产品页面”或“定价页面”）。
 
-文件可从右侧网址获得：[https://docs.{{siteDomain}}](https://docs.{{siteDomain}}) （“文件网站”）。
+文件可从右侧网址获得：[https://docs.{{siteDomain}}/zh](https://docs.{{siteDomain}}/zh) （“文件网站”）。
 
 自助服务门户位于[https://console.{{siteDomain}}](https://console.{{siteDomain}}) （以下统称为“门户”或“产品门户”）。
 
