@@ -169,4 +169,7 @@ All TIME in SLA will be considered in UTC.
 - (vi).     disseminating rumors, disrupting social order as well as stability;
 - (vii).    disseminating obscenity, pornography, force, brutality and terror or crime-abetting;
 - (viii).   humiliating slandering others, trespassing the lawful rights and interests of others; _and_
-- (ix).     other contents forbidden by laws and regulations.”
+- (ix).     other contents forbidden by laws and regulations.
+
+
+9.3     In the case your content violates Chinese laws and regulations, after receiving notification from Partners/Affiliates, the Company reserves the right to suspend the service immediately without notifying you.
