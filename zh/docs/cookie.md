@@ -56,4 +56,4 @@ Cookie是一个小文本文件，当您访问网站时，它存储在您的计�
 
 希望Cookie政策为您澄清了一些事项。如果您需要更多信息，可以通过以下地址联系我们： 
 
-1550 Valley Vista Drive, Suite 110, Diamond Bar, California 91765, USA
+1840 Enterprise Way, Monrovia, California 91016, USA
