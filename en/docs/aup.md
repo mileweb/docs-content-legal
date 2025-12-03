@@ -8,16 +8,16 @@ You shall not, and you shall not allow or cause any person, engage in any of the
 * conduct, promote, facilitate or allow illegal, unlawful, infringing, harmful or fraudulent activities which violate any applicable local, national or international laws and regulations;
 * breach any term of CDNetworks’ policies and agreements, including but not limited to the Privacy Policy, Cookie Policy, Terms of Use, etc.;
 * transmit, distribute, or otherwise make available any illegal, harmful or offensive content which in fact or in our reasonable opinion:
-  * violates any applicable laws or regulations;
-  * infringes our rights or any third party’s rights;
-  * causes threat or damage to any person or property; 
-  * constitutes unauthorised spam or other similar messages, promotions, advertising or solicitations; or
-  * is inaccurate, misleading, fraudulent or otherwise objectionable.
+  i. violates any applicable laws or regulations;
+ ii. infringes our rights or any third party’s rights;
+iii.* causes threat or damage to any person or property; 
+  iv. constitutes unauthorised spam or other similar messages, promotions, advertising or solicitations; or
+  5. is inaccurate, misleading, fraudulent or otherwise objectionable.
  * abuse our Websites or Services, or create a risk of security breach to CDNetworks’ system, such as:
-   * interfere with or disrupt our network, or attempt to circumvent the network security features;
-   * decompile, reverse engineer, disassemble, lease, sell, distribute, or reproduce the Websites or Services;
-   * distribute viruses, logic bombs, Trojan horses, worms or other harmful programs or materials;
-   * engage in any data mining, or use “bots” or similar data gathering and extraction tools or methods in connection with the Websites.
+   i. interfere with or disrupt our network, or attempt to circumvent the network security features;
+  ii. decompile, reverse engineer, disassemble, lease, sell, distribute, or reproduce the Websites or Services;
+ iii.* distribute viruses, logic bombs, Trojan horses, worms or other harmful programs or materials;
+  iv. engage in any data mining, or use “bots” or similar data gathering and extraction tools or methods in connection with the Websites.
 
 The types of activities described above in this AUP are not intended to be exhaustive, but merely illustrative examples deemed by CDNetworks to be inappropriate, improper, illegal, or otherwise harmful to CDNetworks’ reputation, networks, or services and therefore prohibited when using our Websites and Services.
 
@@ -32,6 +32,7 @@ CDNetworks does not grant (whether express or implied) any right, license or own
 ## Completing Forms on the Websites
 
 If you choose to provide us with information via our online forms,
+
     * we will use that information only to contact you regarding your request;
     * we will use an automated process to collect the information you submit;
     * we will not share your personal data with any third party other than those are described in this AUP and our Privacy Policy;
@@ -44,6 +45,7 @@ The Websites may provide links to other websites or resources. CDNetworks is not
 ## Disclaimers and Limitation of Liability
 
 The Websites is provided on an “as is” “as available” basis. We expressly disclaim all warranties of any kind, whether express or implied, including, but not limited to, the implied warranties of title, merchantability, fitness for a particular purpose, and non-infringement. In this AUP, we make no warranty:
+
     * that the Websites will be uninterrupted, timely, secure, error-free, or virus-free; and
     * regarding any services, products, information or other materials purchased, downloaded, or otherwise obtained through the Websites.
     
