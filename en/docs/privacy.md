@@ -119,7 +119,7 @@ To be specific, we have implemented the following measures to protect your perso
 
   a.  Encryption and pseudonymisation: we adopt appropriate encryption and pseudonymisation measures to prevent data leakage and unauthorised access. For example, in data transmission we leverage encryption technologies, such as RSA and AES, to reduce the data security risks; in data storage and display, we use encryption technologies, such as hash algorithm, NCA algorithm, etc., console desensitization display and other means to protect your personal data.
   
-  b.  Cybersecurity: we possess appropriate cybersecurity capabilities that are no less than industry standards. For example, we deploy firewall to prevent unauthorized access, implement DDOS protection to ensure the network stability, regularly run vulnerability scanning programs to detect potential security vulnerabilities and develop vulnerability strategies, take appropriate O&M security management and configuration management, remote access to the IT systems via VPN tunnels, etc. An overview of certifications and attestations maintained by {{title}} in terms of the security of information systems can be viewed [here](https://www.{{siteDomain}{/physicertifications/).
+  b.  Cybersecurity: we possess appropriate cybersecurity capabilities that are no less than industry standards. For example, we deploy firewall to prevent unauthorized access, implement DDOS protection to ensure the network stability, regularly run vulnerability scanning programs to detect potential security vulnerabilities and develop vulnerability strategies, take appropriate O&M security management and configuration management, remote access to the IT systems via VPN tunnels, etc. An overview of certifications and attestations maintained by {{title}} in terms of the security of information systems can be viewed [here](https://www.{{siteDomain}}/certifications/).
   
   c.  Password control: we have implemented password controls in our portal for the CDN Pro product, including password length, complexity, valid period, access attempts, password reset timeframe, etc. All passwords will be stored in a “hashed” form.
   
@@ -157,6 +157,6 @@ We will use our reasonable endeavor to respond to your request. Please note that
 We may update or modify this Privacy Policy from time to time according to changes in our business operations or applicable laws. If we update this Privacy Policy, we will publish its latest version on our CDN Pro console platform or by otherwise notifying you. The revised terms will come into effect immediately upon posting or otherwise notified by us. We recommend that you check this Privacy Policy regularly to familiarize yourself with {{title}}’ practices and to be aware of any material changes.
 
 ## 8. How to contact us
-O[O
+
 If you have any questions, concerns or suggestions related to this Privacy Policy, or if you want to report any problem, or if you wish to execute your data subject rights, please contact us at:
 Email: abuse@{{siteDomain}}
