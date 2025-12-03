@@ -4,7 +4,7 @@
 
 As an industry-leading CDN and Security Solution provider, {{title}} (including its global affiliates, collectively “{{title}}”, “we”, “our” and “us”) fully respects your privacy and is committed to protecting your personal data (otherwise known as personal information). This Privacy Policy applies to our CDN Pro product, a serverless Nginx platform @Edge, and any our official websites or portals that post a link to this document. Please make sure that you have fully read, understood, and consent with the terms of this Privacy Policy for CDN Pro before interacting with us.
 
-This Privacy Policy describes how we collect, use, or otherwise process your personal data as a “controller” (i.e., we determine the purposes and means of the processing of personal data). This Privacy Policy does not apply to the processing of personal data as a processor (i.e., we process personal data on behalf of the controller). The details of our processing of personal data in the processor role are outlined in {{title}} [Data Processing Addendum](https://www.{{siteDomain}}data-processing-addendum/).
+This Privacy Policy describes how we collect, use, or otherwise process your personal data as a “controller” (i.e., we determine the purposes and means of the processing of personal data). This Privacy Policy does not apply to the processing of personal data as a processor (i.e., we process personal data on behalf of the controller). The details of our processing of personal data in the processor role are outlined in {{title}} [Data Processing Addendum](https://www.{{siteDomain}}/data-processing-addendum/).
 
 
 ## 1. What personal data we collect from you
@@ -15,11 +15,11 @@ The personal data we collect depends upon the nature of your interaction with {{
 
 In general, {{title}} collects and processes relevant categories of personal data in connection with the following business operations:
 
-    (a)  Website content provision: when you browse information and content on our websites, we may collect your Device and Behavior information.
-    (b)  Services provision and improvement: depending on the service you use and your preferences, you may be asked to provide your Account Information, Contact Information, Payment Information, Device and Behavior Information, Service Operation Information.
-    (c)  Promotional and marketing activities: depending on the setting of your preferences, you may be asked to provide your Contact Information, Device and Behavior Information.
-    (d)  Request support: depending on your requests, inquires, suggestions, or the problems you encounter, you may be asked to provide your Account Information, Contact Information, Device and Behavior Information, Service Operation Information.
-    (e)  Legal obligations performance: we will collect your personal data as required by applicable laws and regulations.
+  (a)  Website content provision: when you browse information and content on our websites, we may collect your Device and Behavior information.
+  (b)  Services provision and improvement: depending on the service you use and your preferences, you may be asked to provide your Account Information, Contact Information, Payment Information, Device and Behavior Information, Service Operation Information.
+  (c)  Promotional and marketing activities: depending on the setting of your preferences, you may be asked to provide your Contact Information, Device and Behavior Information.
+  (d)  Request support: depending on your requests, inquires, suggestions, or the problems you encounter, you may be asked to provide your Account Information, Contact Information, Device and Behavior Information, Service Operation Information.
+  (e)  Legal obligations performance: we will collect your personal data as required by applicable laws and regulations.
 
 In any cases, {{title}} shall collect your personal data within the minimum scope, and personal data will be processed by {{title}} manually or by electronic means. The following sets out the specific types of personal data that different categories of personal data may contain.
 
@@ -33,40 +33,52 @@ In any cases, {{title}} shall collect your personal data within the minimum scop
 
 We collect personal data from you for the following purposes:
 
-    (a)  To enable you to access certain information or content of our websites;
-    (b)  To enter into a contract with you or the entity you represent, or to perform the contract;
-    (c)  To provide you with our services, online content and information;
-    (d)  To contact you and send you notices related to the provision of our services;
-    (e)  To respond to your requests, inquires and suggestions;
-    (f)  To send you information about our products, activities and services that may interest you;
-    (g)  To optimize our products and services, expand markets relationships and deepen business cooperation;
-    (h)  To analyze the efficiency of your service operations, and provide you with customized services;
-    (i)  To ensure the network security of our customers, users and ourselves;
-    (j)  To comply with applicable laws and regulations, or respond to regulatory requirements; and
-    (k)  For any other purposes which we may separately notify you and obtain your consent for.
+  (a)  To enable you to access certain information or content of our websites;
+  (b)  To enter into a contract with you or the entity you represent, or to perform the contract;
+  (c)  To provide you with our services, online content and information;
+  (d)  To contact you and send you notices related to the provision of our services;
+  (e)  To respond to your requests, inquires and suggestions;
+  (f)  To send you information about our products, activities and services that may interest you;
+  (g)  To optimize our products and services, expand markets relationships and deepen business cooperation;
+  (h)  To analyze the efficiency of your service operations, and provide you with customized services;
+  (i)  To ensure the network security of our customers, users and ourselves;
+  (j)  To comply with applicable laws and regulations, or respond to regulatory requirements; and
+  (k)  For any other purposes which we may separately notify you and obtain your consent for.
 
 We process your personal data on one or more of the following legal bases:
-    (a)  When you have given consent to the processing of your personal data for one or more specific purposes;
-    (b)  When processing is necessary for the performance of a contract to which you or a legal entity you represent is party or in order to take steps at your request prior to entering into a contract;
-    (c)  When processing is necessary for compliance with our legal obligation;
-    (d)  When processing is necessary in order to protect the public interest or the vital interests of you or another natural person;
-    (e)  When processing is necessary for the legitimate interest pursued by {{title}} or by third-parties as described in this Privacy Policy.
+
+  (a)  When you have given consent to the processing of your personal data for one or more specific purposes;
+  (b)  When processing is necessary for the performance of a contract to which you or a legal entity you represent is party or in order to take steps at your request prior to entering into a contract;
+  (c)  When processing is necessary for compliance with our legal obligation;
+  (d)  When processing is necessary in order to protect the public interest or the vital interests of you or another natural person;
+  (e)  When processing is necessary for the legitimate interest pursued by {{title}} or by third-parties as described in this Privacy Policy.
 
 ## 3. How we share your personal data
 
 To fulfill the purposes outlined in Section 2, {{title}} may share your personal data with the following categories of recipients under the circumstances described below:
 
-    * **Your organization**
+### Your organization
+
 If your service account is provided or managed by your organization, we may share certain account-related data with your organization to enable it to administer, manage, and support the use of our services.
-    * Third-party vendors
+
+### Third-party vendors
+
 Certain features of {{title}}’ services may be provided in whole or in part by third-party vendors directly. Specifically, we use Stripe as our third-party payment platform, and we use Google for hosting and database services. Third-party vendors may have their own separate privacy policies, which are not governed by this Privacy Policy.
-    * Subcontractors
+
+### Subcontractors
+
 Under some circumstances, such as service provision, product optimization, request response, user experience enhancement, etc., we may use sub-processors to process your personal data on our behalf. In such cases, the purposes and means of personal data processing are determined by {{title}}, and the sub-processors will only act in accordance with {{title}}’ instructions. When sharing your personal data with our subcontractors, {{title}} will seek reasonably appropriate protection measures, and we share it only if the recipient agrees to comply with this Privacy Policy or has adopted a substantially similar policy regarding the treatment of personal data. For more information, please see [Sub-Processors](https://www.{{siteDomain}/sub-processors/).
-    * Regulatory authority
+
+### Regulatory authority
+
 We may have to share your personal data for the purposes of complying with applicable laws and regulations, responding to legal processes or protecting our legitimate rights and interests.
-    * Your instructions to a third party
+
+### Your instructions to a third party
+
 Other than as set out above, we may share your personal data under your instructions.
-    * Entities within {{title}}’ Group
+
+### Entities within {{title}}’ Group
+
 {{title}} is a transnational enterprise with affiliates in several countries around the world. On some occasions (e.g., providing global services, troubleshooting, remote support, etc.), {{title}} may need to collaborate with its affiliates and transfer your personal data to the places outside your home country or region. {{title}} affiliates will commit to the same degree of care on the protection of your personal data. If international transfer happens, {{title}} shall adopt appropriate safeguards, including technical measures and organizational measures, to ensure such transfer is compliant with this Privacy Policy and as permitted by applicable data protection laws.
 
 ## 4. How we protect your personal data
@@ -77,17 +89,17 @@ To be specific, we have implemented the following measures to protect your perso
 
 ### Organizational Measures
 
-    a.  Internal system construction: we have established and implemented internal privacy management system, including information security policies, risk assessments guidelines, data audit procedures, remote work policies, incident management programs, data processing addendum, etc.
-    b.  External contract management: in our external cooperation, we ensure that we have entered into relevant contracts with the counterparty, such as data processing agreement, nondisclosure agreement, or inserting personal data protection-related clauses into relevant contract, to require third parties to fulfill their data protection obligations and we will continuously monitor their performance.
-    c.  Access control: we have deployed access control mechanisms and implemented hierarchical permission management based on the necessity of service provision and personnel level to ensure that only authorized personnel can access personal data. Meanwhile, we clearly define and assign the roles and responsibilities of personal data protection, and implement separation of duties to reduce the risk of unauthorised access.
-    d.  Awareness & Training: we have a dedicated privacy team responsible for holding regular and ongoing trainings to enhance our employees’ personal data protection awareness.
+  a.  Internal system construction: we have established and implemented internal privacy management system, including information security policies, risk assessments guidelines, data audit procedures, remote work policies, incident management programs, data processing addendum, etc.
+  b.  External contract management: in our external cooperation, we ensure that we have entered into relevant contracts with the counterparty, such as data processing agreement, nondisclosure agreement, or inserting personal data protection-related clauses into relevant contract, to require third parties to fulfill their data protection obligations and we will continuously monitor their performance.
+  c.  Access control: we have deployed access control mechanisms and implemented hierarchical permission management based on the necessity of service provision and personnel level to ensure that only authorized personnel can access personal data. Meanwhile, we clearly define and assign the roles and responsibilities of personal data protection, and implement separation of duties to reduce the risk of unauthorised access.
+  d.  Awareness & Training: we have a dedicated privacy team responsible for holding regular and ongoing trainings to enhance our employees’ personal data protection awareness.
 
 ### Technical measures
 
-    a.  Encryption and pseudonymisation: we adopt appropriate encryption and pseudonymisation measures to prevent data leakage and unauthorised access. For example, in data transmission we leverage encryption technologies, such as RSA and AES, to reduce the data security risks; in data storage and display, we use encryption technologies, such as hash algorithm, NCA algorithm, etc., console desensitization display and other means to protect your personal data.
-    b.  Cybersecurity: we possess appropriate cybersecurity capabilities that are no less than industry standards. For example, we deploy firewall to prevent unauthorized access, implement DDOS protection to ensure the network stability, regularly run vulnerability scanning programs to detect potential security vulnerabilities and develop vulnerability strategies, take appropriate O&M security management and configuration management, remote access to the IT systems via VPN tunnels, etc. An overview of certifications and attestations maintained by {{title}} in terms of the security of information systems can be viewed [here](https://www.{{siteDomain}/certifications/).
-    c.  Password control: we have implemented password controls in our portal for the CDN Pro product, including password length, complexity, valid period, access attempts, password reset timeframe, etc. All passwords will be stored in a “hashed” form.
-    d.  Back-up: an appropriate backup methodology is implemented to ensure data integrity and timely restoration of core operational data.
+  a.  Encryption and pseudonymisation: we adopt appropriate encryption and pseudonymisation measures to prevent data leakage and unauthorised access. For example, in data transmission we leverage encryption technologies, such as RSA and AES, to reduce the data security risks; in data storage and display, we use encryption technologies, such as hash algorithm, NCA algorithm, etc., console desensitization display and other means to protect your personal data.
+  b.  Cybersecurity: we possess appropriate cybersecurity capabilities that are no less than industry standards. For example, we deploy firewall to prevent unauthorized access, implement DDOS protection to ensure the network stability, regularly run vulnerability scanning programs to detect potential security vulnerabilities and develop vulnerability strategies, take appropriate O&M security management and configuration management, remote access to the IT systems via VPN tunnels, etc. An overview of certifications and attestations maintained by {{title}} in terms of the security of information systems can be viewed [here](https://www.{{siteDomain}/certifications/).
+  c.  Password control: we have implemented password controls in our portal for the CDN Pro product, including password length, complexity, valid period, access attempts, password reset timeframe, etc. All passwords will be stored in a “hashed” form.
+  d.  Back-up: an appropriate backup methodology is implemented to ensure data integrity and timely restoration of core operational data.
 
 ### Physical Measures
 
@@ -123,4 +135,4 @@ We may update or modify this Privacy Policy from time to time according to chang
 ## 8. How to contact us
 O[O
 If you have any questions, concerns or suggestions related to this Privacy Policy, or if you want to report any problem, or if you wish to execute your data subject rights, please contact us at:
-Email: [abuse@{{siteDomain}}](mailto: abuse@{{siteDomain}}
+Email: [abuse@{{siteDomain}}](mailto: abuse@{{siteDomain}})
