@@ -49,8 +49,8 @@ The Websites may provide links to other websites or resources. CDNetworks is not
 
 The Websites is provided on an “as is” “as available” basis. We expressly disclaim all warranties of any kind, whether express or implied, including, but not limited to, the implied warranties of title, merchantability, fitness for a particular purpose, and non-infringement. In this AUP, we make no warranty:
 
-    * that the Websites will be uninterrupted, timely, secure, error-free, or virus-free; and
-    * regarding any services, products, information or other materials purchased, downloaded, or otherwise obtained through the Websites.
+   * that the Websites will be uninterrupted, timely, secure, error-free, or virus-free; and
+   * regarding any services, products, information or other materials purchased, downloaded, or otherwise obtained through the Websites.
     
 In no event will we be liable for any direct, indirect, punitive, special, incidental, or consequential damages, including lost profits (however arising, including negligence) even if we have been advised of the possibility of damages, arising out of or in connection with the use or inability to use the Websites, or any information, products or services obtained through the Websites. CDNetworks takes no responsibility for any user content created, accessible or delivered on or through the Websites.
 
