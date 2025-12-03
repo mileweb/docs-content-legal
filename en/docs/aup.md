@@ -8,12 +8,15 @@ You shall not, and you shall not allow or cause any person, engage in any of the
 * conduct, promote, facilitate or allow illegal, unlawful, infringing, harmful or fraudulent activities which violate any applicable local, national or international laws and regulations;
 * breach any term of CDNetworks’ policies and agreements, including but not limited to the Privacy Policy, Cookie Policy, Terms of Use, etc.;
 * transmit, distribute, or otherwise make available any illegal, harmful or offensive content which in fact or in our reasonable opinion:
+
   i. violates any applicable laws or regulations;
  ii. infringes our rights or any third party’s rights;
 iii.* causes threat or damage to any person or property; 
-  iv. constitutes unauthorised spam or other similar messages, promotions, advertising or solicitations; or
-  5. is inaccurate, misleading, fraudulent or otherwise objectionable.
+ iv. constitutes unauthorised spam or other similar messages, promotions, advertising or solicitations; or
+  v. is inaccurate, misleading, fraudulent or otherwise objectionable.
+
  * abuse our Websites or Services, or create a risk of security breach to CDNetworks’ system, such as:
+
    i. interfere with or disrupt our network, or attempt to circumvent the network security features;
   ii. decompile, reverse engineer, disassemble, lease, sell, distribute, or reproduce the Websites or Services;
  iii.* distribute viruses, logic bombs, Trojan horses, worms or other harmful programs or materials;
@@ -33,10 +36,10 @@ CDNetworks does not grant (whether express or implied) any right, license or own
 
 If you choose to provide us with information via our online forms,
 
-    * we will use that information only to contact you regarding your request;
-    * we will use an automated process to collect the information you submit;
-    * we will not share your personal data with any third party other than those are described in this AUP and our Privacy Policy;
-    * we will retain your information for no longer than is necessary under the applicable laws and regulations.
+   * we will use that information only to contact you regarding your request;
+   * we will use an automated process to collect the information you submit;
+   * we will not share your personal data with any third party other than those are described in this AUP and our Privacy Policy;
+   * we will retain your information for no longer than is necessary under the applicable laws and regulations.
 
 ## Third-Party Sites
 
