@@ -11,11 +11,11 @@ You shall not, and you shall not allow or cause any person, engage in any of the
  * breach any term of {{title}}’ policies and agreements, including but not limited to the Privacy Policy, Cookie Policy, Terms of Use, etc.;
  * transmit, distribute, or otherwise make available any illegal, harmful or offensive content which in fact or in our reasonable opinion:
 
-  1. violates any applicable laws or regulations;
-  2. infringes our rights or any third party’s rights;
-  3. causes threat or damage to any person or property; 
-  4. constitutes unauthorized spam or other similar messages, promotions, advertising or solicitations; or
-  5. is inaccurate, misleading, fraudulent or otherwise objectionable.
+   1. violates any applicable laws or regulations;
+   2. infringes our rights or any third party’s rights;
+   3. causes threat or damage to any person or property; 
+   4. constitutes unauthorized spam or other similar messages, promotions, advertising or solicitations; or
+   5. is inaccurate, misleading, fraudulent or otherwise objectionable.
 
  * abuse our Websites or Services, or create a risk of security breach to {{title}}’ system, such as:
 
