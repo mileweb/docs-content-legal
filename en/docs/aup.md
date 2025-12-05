@@ -1,18 +1,20 @@
 # Acceptable use policy
 
+Last Updated: December 1, 2025
+
 Thank you for your interest in {{title}} (including its affiliates worldwide, collectively “{{title}}”, “we”, “our” and “us”) and for using our CDN Pro product, a serverless Nginx platform @Edge. This Acceptable Use Policy (this “AUP”) sets forth the terms for acceptable usage of (i) the CDN Pro website and all content or materials on or provided through this website (collectively, “Websites”); and (ii) all services and products contain or refer to this AUP (collectively, “Services”). **Please carefully read this AUP before you start using our Websites and Services. If you do not agree to the terms of this AUP, please do not use our Websites and Services. By using our Websites or accepting our Services, you confirm that you have fully read, understood and agree to comply with the terms of this AUP.**
 
 ## Prohibited Activities
 You shall not, and you shall not allow or cause any person, engage in any of the following prohibited activities:
 
-* conduct, promote, facilitate or allow illegal, unlawful, infringing, harmful or fraudulent activities which violate any applicable local, national or international laws and regulations;
-* breach any term of {{title}}’ policies and agreements, including but not limited to the Privacy Policy, Cookie Policy, Terms of Use, etc.;
-* transmit, distribute, or otherwise make available any illegal, harmful or offensive content which in fact or in our reasonable opinion:
+ * conduct, promote, facilitate or allow illegal, unlawful, infringing, harmful or fraudulent activities which violate any applicable local, national or international laws and regulations;
+ * breach any term of {{title}}’ policies and agreements, including but not limited to the Privacy Policy, Cookie Policy, Terms of Use, etc.;
+ * transmit, distribute, or otherwise make available any illegal, harmful or offensive content which in fact or in our reasonable opinion:
 
   1. violates any applicable laws or regulations;
   2. infringes our rights or any third party’s rights;
   3. causes threat or damage to any person or property; 
-  4. constitutes unauthorised spam or other similar messages, promotions, advertising or solicitations; or
+  4. constitutes unauthorized spam or other similar messages, promotions, advertising or solicitations; or
   5. is inaccurate, misleading, fraudulent or otherwise objectionable.
 
  * abuse our Websites or Services, or create a risk of security breach to {{title}}’ system, such as:
@@ -60,10 +62,10 @@ If {{title}} becomes aware of any content or activity that {{title}}, in its sol
 
 ## Changes and Updates
 
-We may update or modify this AUP from time to time according to changes in our business operations or applicable laws. We may withdraw parts, or content of the Websites without notice, at our discretion. If we update this AUP, we will publish its latest version on our official websites. The revised terms will come into effect immediately upon posting. We recommend that you check this AUP regularly to familiarize yourself with {{title}}’ practices and to be aware of any material changes.
+We may update or modify this AUP from time to time according to changes in our business operations or applicable laws. We may withdraw parts, or content of the Websites without notice, at our discretion. If we update this AUP, we will publish its latest version on the CDN Pro websites. The revised terms will come into effect immediately upon posting. We recommend that you check this AUP regularly to familiarize yourself with {{title}}’ practices and to be aware of any material changes.
 
 We recognize that through certain points of time some of the content on this site may be outdated. We will do our best to keep information up to date, but we are under no obligation to do so. You acknowledge that such information may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
 
 ## Governing Law and Jurisdiction
 
-This AUP shall be governed by and construed in accordance with the laws of the United States. Disputes arising in connection with this AUP shall be subject to the exclusive jurisdiction of the courts of the United States.
+This AUP shall be governed by and construed in accordance with the laws of the United States, excluding its conflict of laws rules. Disputes arising in connection with this AUP shall be subject to the exclusive jurisdiction of the courts of the United States.
