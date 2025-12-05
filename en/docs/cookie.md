@@ -10,13 +10,13 @@ A “cookie” is a small amount of data that is sent by the website’s server 
 
 **From a website domain perspective, cookies are either from a first party, or third party:**
 
-    (1) First-party cookies are directly set by our website and only our website can read them. These cookies allow us to identify users, remember your settings, and perform other useful functions that provide a good user experience.
-    (2) Third-party cookies are created by other domains. When you visit the {{site}} websites you may notice some cookies that are not related to us. If you go on to a web page that contains embedded content, for example from Facebook or YouTube, you may be sent cookies from these websites. We do not control the generation of these cookies, so we suggest that you check the individual third-party websites for more information about their cookies and how to manage them. {{site}} has no control over third-party cookies.
+  (1) First-party cookies are directly set by our website and only our website can read them. These cookies allow us to identify users, remember your settings, and perform other useful functions that provide a good user experience.
+  (2) Third-party cookies are created by other domains. When you visit the {{site}} websites you may notice some cookies that are not related to us. If you go on to a web page that contains embedded content, for example from Facebook or YouTube, you may be sent cookies from these websites. We do not control the generation of these cookies, so we suggest that you check the individual third-party websites for more information about their cookies and how to manage them. {{site}} has no control over third-party cookies.
 
 **From the lifespan perspective, cookies are either session cookies or persistent cookies:**
 
-    (1) Session cookies are stored while you’re browsing. They remain active as long as the browser remains active – once the browser is closed, such cookies vanish.
-    (2) Persistent cookies are saved on your computer, so they don’t get deleted when you close your browser. Persistent cookies are used when we need to know who you are for more than one browsing session.
+  (1) Session cookies are stored while you’re browsing. They remain active as long as the browser remains active – once the browser is closed, such cookies vanish.
+  (2) Persistent cookies are saved on your computer, so they don’t get deleted when you close your browser. Persistent cookies are used when we need to know who you are for more than one browsing session.
 
 ## What kind of cookies do we use
 
@@ -25,7 +25,7 @@ This section explains the cookies used by CDN Pro. These cookies are essential f
 | Cookie      | Name        | Purpose
 | ------------| ----------- | --------
 | First Party | connect.sid | To maintain the user's login session and website session
-|             | JSESSIONID  |
+| First Party | JSESSIONID  | To maintain the user's login session and website session
 | Third Party | GCLB        | Used by Google, to balance the load of visitors across servers
 
 ## How we use cookies
