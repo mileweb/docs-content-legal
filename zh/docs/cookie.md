@@ -8,13 +8,13 @@
 
 “Cookie”是指网站服务器发送至您的网页浏览器，并在您的计算机或移动设备上本地存储的一小段数据。根据不同的分类标准，通常Cookie可分为以下类型：
 
-## 按网站域名来源划分，Cookie分为第一方Cookie和第三方Cookie：
+** 按网站域名来源划分，Cookie分为第一方Cookie和第三方Cookie：**
 
   (1) 第一方Cookie由我们的网站直接设置，且仅有我们的网站可以读取。这类Cookie帮助我们识别用户、记住您的偏好设置，并提供其他优化用户体验的功能。
   
   (2) 第三方Cookie由其他域名创建。当您访问CDNetworks网站时，可能会发现一些与我们无关的Cookie。例如，当您访问的网页嵌入了来自社交媒体平台（如Facebook、YouTube）的内容时，这些第三方网站可能会设置Cookie。我们无法控制此类Cookie的生成与使用，因此建议您查阅相关第三方网站，以了解其Cookie的使用方式及管理方法。CDNetworks对第三方Cookie不具有控制权。
 
-## 按Cookie有效期划分，Cookie分为会话Cookie和持久性Cookie：
+** 按Cookie有效期划分，Cookie分为会话Cookie和持久性Cookie：**
 
   (1) 会话Cookie将在您浏览网站期间存在。只要浏览器处于活动状态，这类Cookie将持续有效；一旦关闭浏览器，它们将被自动删除。
   
