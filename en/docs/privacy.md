@@ -162,7 +162,7 @@ We will use our reasonable endeavor to respond to your request. Please note that
 
 We use cookies and/or other similar technologies, such as web beacons, JavaScript, etc., to maintain your session, provide you with a smoother and more efficient browsing experience on our Websites and enhance your usage on our Services.
 
-A “cookie” is a small amount of data that is sent by the website’s server to your web browser and stored locally on your computer or mobile device. For more information about the cookies usage in connection with our CDN Pro product and related websites, please see our [Cookie Policy](cookie.md).
+A “cookie” is a small amount of data that is sent by the website’s server to your web browser and stored locally on your computer or mobile device. For more information about the cookies usage in connection with our CDN Pro product and related websites, please see our [Cookie Policy](cookie).
 
 ## 8. How this Privacy Policy is updated
 
