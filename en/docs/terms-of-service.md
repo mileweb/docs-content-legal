@@ -2,7 +2,7 @@
 
 Services (**“Services”**) are products and services provided by {{entityName}}. (**“Company”**). 
 
-Services introduction and Pricing is available on the Product page [https://www.{{siteDomain}}/cdnpro](https://{{siteDomain}}/cdnpro) (referred to as **“Product Page”** or **“Pricing page”**).
+Services introduction and Pricing is available on the Product page [https://www.{{siteDomain}}/products/cdnpro](https://{{siteDomain}}/products/cdnpro) (referred to as **“Product Page”** or **“Pricing page”**).
 
 Documentation is available at [https://docs.{{siteDomain}}](https://docs.{{siteDomain}}) (**“Documentation site”**). 
 
@@ -93,7 +93,7 @@ The Company reserves the right to terminate your account and suspend or terminat
 
 4.5     To collect the Service fee, the Company will provide an invoice to you and may  charge at the credit card that you have provided during the sign-up process. If the information required to process an invoice was changed, you must notify the Company immediately and provide updated billing information. Your provision of your credit card information to the Company constitutes your authorization to the Company of charging your credit card for Services specified in a Service Order.
 
-4.6     The Company reserves the right to modify or adjust the Price Model (available at [https://www.{{siteDomain}}/cdnpro-pricing/](https://www.{{siteDomain}}/cdnpro-pricing) ) from time to time. A 45-day prior notice will be given to existing customers.
+4.6     The Company reserves the right to modify or adjust the Price Model (available at [https://www.{{siteDomain}}/products/cdnpro-pricing/](https://www.{{siteDomain}}/products/cdnpro-pricing) ) from time to time. A 45-day prior notice will be given to existing customers.
 
 ## 5. System Interruption or Failure
 
@@ -129,7 +129,7 @@ The Company will not be liable for the damages caused by or in connection with t
 All TIME in SLA will be considered in UTC.
 
 
-6.8     You hereby agree that Service Credits granted under the SLA is your sole and exclusive remedy in respect of any failures by the Company to provide Services.
+6.6     You hereby agree that Service Credits granted under the SLA is your sole and exclusive remedy in respect of any failures by the Company to provide Services.
 
 ## 7. Intellectual Property Rights Protection
 
