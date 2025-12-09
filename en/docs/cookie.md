@@ -2,7 +2,7 @@
 
 Last Updated: December 1, 2025
 
-This Cookie Policy explains how {{site}} (including its affiliates worldwide, collectively “{{site}}”, “we”, “our” and “us”) uses cookies and similar technologies, such as web beacons, JavaScript, etc., in connection with our CDN Pro product and related websites, to remember your login information, and provide you with a smoother and more efficient browsing experience on our websites.
+This Cookie Policy explains how {{title}} (including its affiliates worldwide, collectively “{{title}}”, “we”, “our” and “us”) uses cookies and similar technologies, such as web beacons, JavaScript, etc., in connection with our CDN Pro product and related websites, to remember your login information, and provide you with a smoother and more efficient browsing experience on our websites.
 
 ## What are cookies
 
@@ -12,7 +12,7 @@ A “cookie” is a small amount of data that is sent by the website’s server 
 
   (1) First-party cookies are directly set by our website and only our website can read them. These cookies allow us to identify users, remember your settings, and perform other useful functions that provide a good user experience.
 
-  (2) Third-party cookies are created by other domains. When you visit the {{site}} websites you may notice some cookies that are not related to us. If you go on to a web page that contains embedded content, for example from Facebook or YouTube, you may be sent cookies from these websites. We do not control the generation of these cookies, so we suggest that you check the individual third-party websites for more information about their cookies and how to manage them. {{site}} has no control over third-party cookies.
+  (2) Third-party cookies are created by other domains. When you visit the {{title}} websites you may notice some cookies that are not related to us. If you go on to a web page that contains embedded content, for example from Facebook or YouTube, you may be sent cookies from these websites. We do not control the generation of these cookies, so we suggest that you check the individual third-party websites for more information about their cookies and how to manage them. {{title}} has no control over third-party cookies.
 
 **From the lifespan perspective, cookies are either session cookies or persistent cookies:**
 
@@ -32,11 +32,11 @@ This section explains the cookies used by CDN Pro. These cookies are essential f
 
 ## How we use cookies
 
-{{site}} will never link the cookies to any personal data about you we hold. The information we collect is in an anonymous form. All data we retrieve from our cookies is only used to understand your experience as a user on the website with the aim to improve the performance and usability on this website. Our cookies are limited to our site only and are not designed to follow you when browsing to other sites after leaving the {{site}} website.
+{{title}} will never link the cookies to any personal data about you we hold. The information we collect is in an anonymous form. All data we retrieve from our cookies is only used to understand your experience as a user on the website with the aim to improve the performance and usability on this website. Our cookies are limited to our site only and are not designed to follow you when browsing to other sites after leaving the {{title}} website.
 
 ## How this Cookie Policy is updated
 
-We may update or modify this Cookie Policy from time to time according to changes in our business operations or applicable laws. If we update this Cookie Policy, we will publish its latest version on our CDN Pro console website or by otherwise notifying you. The revised terms will come into effect immediately upon posting or otherwise notified by us. We recommend that you check this Cookie Policy regularly to familiarize yourself with {{site}}’ practices and to be aware of any material changes.
+We may update or modify this Cookie Policy from time to time according to changes in our business operations or applicable laws. If we update this Cookie Policy, we will publish its latest version on our CDN Pro console website or by otherwise notifying you. The revised terms will come into effect immediately upon posting or otherwise notified by us. We recommend that you check this Cookie Policy regularly to familiarize yourself with {{title}}’ practices and to be aware of any material changes.
 
 ## How to contact us
 
