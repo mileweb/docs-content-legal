@@ -4,11 +4,11 @@
 
 服务（**“服务”**）是指 {{entityName}}. （**“公司”**）提供的产品和服务。
 
-产品页面提供服务介绍和定价，详见：[https://www.{{siteDomain}}/cn/products/cdnpro](https://{{siteDomain}}/cn/products/cdnpro) （称为**“产品页面”** 或**“定价页面”**）。
+产品页面提供服务介绍和定价，详见：[https://www.{{siteDomain}}/cn/products/cdnpro](https://{{siteDomain}}/cn/products/cdnpro) （称为**“产品页面”**或**“定价页面”**）。
 
 文件可从右侧网址获得：[https://docs.{{siteDomain}}/zh](https://docs.{{siteDomain}}/zh) （**“文件网站”**）。
 
-自助服务门户位于[https://console.{{siteDomain}}](https://console.{{siteDomain}}) （以下统称为**“门户”** 或**“产品门户”**）。
+自助服务门户位于[https://console.{{siteDomain}}](https://console.{{siteDomain}}) （以下统称为**“门户”**或**“产品门户”**）。
 
 在您订阅并开始使用服务之前，本公司假设您已充分阅读、理解并接受以下条款和条件以及所有附件和补充（以下简称**“协议”**）。如果您不同意或不希望受本协议约束，您可能无法访问或以其他方式使用服务。
 
