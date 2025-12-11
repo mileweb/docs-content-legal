@@ -1,5 +1,7 @@
 # Terms of Service
 
+Last Updated: December 8, 2025
+
 Services (**“Services”**) are products and services provided by {{entityName}}. (**“Company”**). 
 
 Services introduction and Pricing is available on the Product page [https://www.{{siteDomain}}/products/cdnpro](https://{{siteDomain}}/products/cdnpro) (referred to as **“Product Page”** or **“Pricing page”**).
